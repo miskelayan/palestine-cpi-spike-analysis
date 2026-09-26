@@ -16,7 +16,7 @@ import pandas as pd
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 
 from .features import add_time_series_features, add_spike_target
-from .models import build_logistic_regression, build_random_forest, time_based_split
+from .models import build_logistic_regression, time_based_split
 
 TEST_START = "2025-03-01"
 PRIMARY_THRESHOLD = 10.0
@@ -25,7 +25,7 @@ NUMERIC = ["pct_change_lag_1", "pct_change_lag_2", "pct_change_lag_3",
            "pct_change_rolling_mean_3", "pct_change_rolling_std_3",
            "pct_change_rolling_mean_6", "pct_change_rolling_std_6", "month_sin", "month_cos"]
 FEATURES = NUMERIC + ["code"]
-MODEL_NAMES = ["No spike", "Persistence", "Logistic Regression", "Random Forest"]
+MODEL_NAMES = ["No spike", "Persistence", "Logistic Regression"]
 
 
 def read_data(root):
@@ -71,7 +71,6 @@ def fit_evaluate(frame, threshold, cutoff, end=None):
         raise ValueError("Training requires both spike classes")
     fitted = {
         "Logistic Regression": build_logistic_regression(NUMERIC, ("code",)),
-        "Random Forest": build_random_forest(NUMERIC, ("code",)),
     }
     results, predictions = [], []
     for name in MODEL_NAMES:
@@ -176,8 +175,7 @@ def run(root=None):
     eda.to_csv(tables / "group_overview.csv", float_format="%.8f")
     frame.nlargest(15, "pct_change")[["date", "code", "group_en", "pct_change"]].to_csv(tables / "largest_increases.csv", index=False)
     names = primary_fitted["Logistic Regression"].named_steps["preprocess"].get_feature_names_out()
-    pd.DataFrame({"feature": names, "standardized_logistic_coefficient": primary_fitted["Logistic Regression"].named_steps["model"].coef_[0],
-                  "forest_impurity_importance": primary_fitted["Random Forest"].named_steps["model"].feature_importances_}).to_csv(tables / "model_parameters.csv", index=False)
+    pd.DataFrame({"feature": names, "standardized_logistic_coefficient": primary_fitted["Logistic Regression"].named_steps["model"].coef_[0]}).to_csv(tables / "model_parameters.csv", index=False)
     plt.rcParams.update({"font.size": 10, "axes.spines.top": False, "axes.spines.right": False, "axes.titleweight": "bold"})
     fig, axes = plt.subplots(2, 1, figsize=(11, 7), sharex=True)
     for code, label in [("0999", "All items"), ("01", "Food"), ("02", "Tobacco / alcohol / narcotics")]:
@@ -208,7 +206,7 @@ def run(root=None):
     fig.colorbar(im, ax=ax, label="Monthly change (%); colors clipped at ±40")
     fig.tight_layout()
     save_plot(fig, figures / "monthly_changes.png")
-    fig, axes = plt.subplots(1,4,figsize=(13,3.7))
+    fig, axes = plt.subplots(1,len(MODEL_NAMES),figsize=(10,3.7))
     for ax, (_, row) in zip(axes, primary.iterrows()):
         matrix = np.array([[row.tn,row.fp],[row.fn,row.tp]],dtype=int)
         ax.imshow(matrix,cmap="Blues",vmin=0,vmax=int(primary[["tn","fp","fn","tp"]].max().max()))

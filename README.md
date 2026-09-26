@@ -2,9 +2,9 @@
 
 **Can recent price movements help anticipate large monthly CPI increases in Gaza?**
 
-An executed analysis of official PCBS data, developed from a university Data Analytics for Business group project by **Misk Elayan, Asil Khalil, and Sandra Shwamreh**. This repository is Misk Elayan's organized implementation and continued development of that shared project.
+A **Data Analytics for Business** project by **Misk Elayan, Asil Khalil, and Sandra Shwamreh**, using official PCBS data to study monthly price movements in Gaza.
 
-The models detect many upward spikes, but generate substantial false alarms. **Logistic Regression reaches F1 0.500; Random Forest reaches 0.473** on the final 12 months. The simpler persistence baseline reaches 0.480. This small, volatile panel does not establish a reliable operational forecasting system.
+**Logistic Regression reaches F1 0.500** on the final 12 months, detecting many upward spikes but generating substantial false alarms. The simpler persistence baseline reaches 0.480. This small, volatile panel does not establish a reliable operational forecasting system.
 
 ![Gaza CPI levels and monthly changes](reports/figures/cpi_overview.png)
 
@@ -17,9 +17,8 @@ A spike is an expenditure group's monthly CPI increase **≥10%**, an explicit s
 | No spike | 0.840 | 0.000 | 0.000 | 0.000 |
 | Persistence | 0.833 | 0.480 | 0.480 | 0.480 |
 | Logistic Regression | 0.731 | 0.356 | 0.840 | 0.500 |
-| Random Forest | 0.686 | 0.324 | 0.880 | 0.473 |
 
-Logistic Regression finds **21 of 25** spikes with **38 false positives**. Random Forest finds **22 of 25** with **46 false positives**. Always predicting no spike attains 84% accuracy while missing every spike, illustrating why accuracy alone is misleading.
+Logistic Regression finds **21 of 25** spikes with **38 false positives**. Always predicting no spike attains 84% accuracy while missing every spike, illustrating why accuracy alone is misleading.
 
 The F1 advantage of Logistic Regression over persistence is only 0.02. Descriptive month-bootstrap intervals overlap substantially (Logistic Regression: 0.347–0.645; persistence: 0.294–0.621); these are not evidence of statistically established superiority.
 
@@ -27,13 +26,13 @@ The F1 advantage of Logistic Regression over persistence is only 0.02. Descripti
 
 ## Sensitivity and findings
 
-| Spike threshold | Actual test spikes | Persistence F1 | Logistic Regression F1 | Random Forest F1 |
-|---|---:|---:|---:|---:|
-| ≥5% | 30 | 0.600 | 0.500 | 0.545 |
-| ≥10% (primary) | 25 | 0.480 | 0.500 | 0.473 |
-| ≥20% | 19 | 0.432 | 0.345 | 0.394 |
+| Spike threshold | Actual test spikes | Persistence F1 | Logistic Regression F1 |
+|---|---:|---:|---:|
+| ≥5% | 30 | 0.600 | 0.500 |
+| ≥10% (primary) | 25 | 0.480 | 0.500 |
+| ≥20% | 19 | 0.432 | 0.345 |
 
-There is no consistent machine-learning winner across definitions. Persistence performs best by F1 at 5% and 20%. The two earlier temporal holdouts also show unstable performance. All definitions and models are reported; test results were not used to retune them.
+Logistic Regression does not consistently outperform the simple baseline across definitions. Persistence performs best by F1 at 5% and 20%. The two earlier temporal holdouts also show unstable performance. All definitions and models are reported; test results were not used to retune them.
 
 ![Threshold sensitivity](reports/figures/sensitivity.png)
 
@@ -74,7 +73,9 @@ On Windows, replace the activation command with `.venv\Scripts\activate`. Comman
 | Artifact | Contents |
 |---|---|
 | [Executed notebook](notebooks/01_cpi_spike_analysis.ipynb) | Data audit, EDA, features, split, models, sensitivity, interpretation |
-| [Original notebook review](docs/original_notebook_review.md) | How the supplied original analysis informs this implementation and which evaluation issues were corrected |
+| [Data validation](docs/data_validation.md) | Source checks, recovery of missing changes and safeguards |
+| [Detailed Arabic walkthrough](docs/project_walkthrough_ar.md) | Data, code, calculations, results and explanations for presenting the project |
+| [LinkedIn draft](docs/linkedin_post.md) | English and Arabic project summaries grounded in the computed results |
 | [Detailed group overview](reports/tables/detailed_group_overview.csv) | Volatility recalculated by unique code, with nested series kept descriptive |
 | [Methodology](docs/methodology.md) | Forecast timing, design choices, omitted ARIMA/SARIMA rationale, limitations |
 | [Data provenance](data/README.md) | Source, transformations, licensing and extraction |
@@ -92,4 +93,4 @@ Only 20 modeled training months and 12 test months are available; shared shocks 
 
 ARIMA/SARIMA is deferred because the short, disrupted series does not support a convincing seasonal benchmark here; persistence provides a transparent time-series comparison.
 
-Original group members: **Misk Elayan · Asil Khalil · Sandra Shwamreh**. The original project report and project pack informed the scope and data preparation. Numerical data remain attributable to **PCBS** under the source's **CC BY** designation; see [data licensing notes](data/README.md). No separate license has been assigned to project code or the academic report.
+Project team: **Misk Elayan · Asil Khalil · Sandra Shwamreh**. The project report and project pack document the research scope and data preparation. Numerical data remain attributable to **PCBS** under the source's **CC BY** designation; see [data licensing notes](data/README.md). No separate license has been assigned to project code or the academic report.

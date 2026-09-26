@@ -6,7 +6,6 @@ from collections.abc import Sequence
 
 import pandas as pd
 from sklearn.compose import ColumnTransformer
-from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.pipeline import Pipeline
@@ -61,29 +60,6 @@ def build_logistic_regression(
                 "model",
                 LogisticRegression(
                     max_iter=2000,
-                    class_weight="balanced",
-                    random_state=random_state,
-                ),
-            ),
-        ]
-    )
-
-
-def build_random_forest(
-    numeric_features: Sequence[str],
-    categorical_features: Sequence[str] = ("group_en",),
-    random_state: int = 42,
-) -> Pipeline:
-    """Create the nonlinear comparison model described in the project plan."""
-    return Pipeline(
-        steps=[
-            ("preprocess", _preprocessor(numeric_features, categorical_features)),
-            (
-                "model",
-                RandomForestClassifier(
-                    n_estimators=300,
-                    max_depth=4,
-                    min_samples_leaf=5,
                     class_weight="balanced",
                     random_state=random_state,
                 ),

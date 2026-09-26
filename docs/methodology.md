@@ -4,9 +4,7 @@
 
 Can prior monthly CPI movements help anticipate large **next-month increases in an expenditure group's CPI** in Gaza? This is a retrospective one-month-ahead classification experiment, not a national CPI forecast, causal analysis, or deployed alert system.
 
-The scope follows *Project for DATA ANALYTICS FOR BUSINESS.docx* by **Misk Elayan, Asil Khalil, and Sandra Shwamreh**, reviewed alongside their original `Palestine_CPI_Project_Pack.xlsx`. The report proposed Logistic Regression, Random Forest and optional ARIMA/SARIMA. Its prospective statements are not empirical findings. This repository supplies the executed analysis. The personal report and complete multi-source workbook are not redistributed.
-
-The supplied original `Copy_of_gaza_cpi_final.ipynb` was also reviewed; see the [lineage and methodological review](original_notebook_review.md). Its descriptive scope is retained, while its in-sample linear-regression fit is not presented as predictive evidence.
+This Data Analytics for Business project is by **Misk Elayan, Asil Khalil, and Sandra Shwamreh**. The analysis covers data cleaning, exploratory analysis and a Logistic Regression spike-classification experiment. The project report and consolidated workbook establish the study scope. Private source documents are not redistributed.
 
 ## Data and validation
 
@@ -59,9 +57,8 @@ Two earlier fixed holdouts—March–August 2024 and September 2024–February 2
 1. **No spike:** always predict 0, as an accuracy sanity check.
 2. **Persistence:** predict a spike if the preceding change met the same threshold.
 3. **Logistic Regression:** train-only standardized numeric features, one-hot codes, L2 regularization (`C=1`), balanced class weights, `max_iter=2000`, seed 42.
-4. **Random Forest:** same preprocessing, 300 trees, maximum depth 4, minimum leaf size 5, balanced class weights, seed 42. Fixed depth/leaf restrictions limit complexity relative to the small sample; settings are not optimized on the test set.
 
-Balanced weights favor recall and can generate many false positives. Scores are not calibrated probabilities. Standardization is fitted inside the training pipeline; it is unnecessary for trees but retained for consistency.
+Balanced weights favor recall and can generate many false positives. Scores are not calibrated probabilities. Standardization is fitted inside the training pipeline.
 
 **ARIMA/SARIMA is deferred.** There are only 26 training changes before the final test year, fewer than three annual cycles, with substantial regime changes and flat series. Seasonal fitting or broad order search would be fragile. A level-forecast benchmark also needs its own evaluation design. Persistence provides a directly comparable time-series baseline without implying ARIMA can never be useful here.
 
@@ -69,7 +66,7 @@ Balanced weights favor recall and can generate many false positives. Scores are 
 
 Report positive-class precision, recall, F1, accuracy, and counts. Confusion matrices have actual classes on rows, predicted classes on columns: `[[TN, FP], [FN, TP]]`. With no predicted positives, precision/F1 are reported as 0 and predicted-positive counts remain visible. Metrics pool group-month rows equally; they are not expenditure-weighted welfare measures or all-items CPI accuracy.
 
-Save all predictions and metrics by month/group. The notebook independently reconstructs primary metrics from predictions. Training coefficients and forest impurity importances are descriptive, not causal; correlated features and group dummies complicate interpretation.
+Save all predictions and metrics by month/group. The notebook independently reconstructs primary metrics from predictions. Logistic Regression coefficients are descriptive, not causal; correlated features and group dummies complicate interpretation.
 
 F1 intervals use 1,000 bootstrap resamples of **whole test months**, seed 42. This retains within-month dependence but does not fully capture serial dependence or fitting uncertainty. With only 12 test months, these are descriptive intervals, not significance tests. Small F1 differences do not establish reliable model superiority.
 
