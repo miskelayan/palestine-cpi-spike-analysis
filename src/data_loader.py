@@ -76,10 +76,13 @@ def read_project_pack_sheet(
         file_path,
         sheet_name=sheet_name,
         header=header_row,
+        dtype={"code": str},
     )
 
     frame = frame.dropna(how="all")
     frame.columns = [str(column).strip() for column in frame.columns]
+    frame["code"] = frame["code"].str.strip()
+    frame["group_en"] = frame["group_en"].str.strip()
 
     missing = LONG_CPI_COLUMNS.difference(frame.columns)
     if missing:

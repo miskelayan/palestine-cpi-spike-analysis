@@ -1,0 +1,3 @@
+sheet,rows,codes,unique_english_labels,start,end,missing_levels,missing_reported_changes,recovered_changes,max_reported_change_difference_pp
+major,585,15,15,2022-12-01,2026-02-01,0,30,15,1.2789769243681803e-13
+detailed,5070,130,124,2022-12-01,2026-02-01,0,130,0,2.2737367544323206e-13

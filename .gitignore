@@ -222,3 +222,7 @@ data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/cpi_major_groups.csv
+!data/processed/source_inventory.csv
+!data/processed/provenance.json
+!data/processed/cpi_detailed_groups.csv

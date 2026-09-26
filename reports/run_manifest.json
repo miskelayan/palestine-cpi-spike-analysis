@@ -1,0 +1,26 @@
+{
+  "raw_rows": 585,
+  "raw_codes": 15,
+  "raw_months": 39,
+  "modeled_codes": 13,
+  "train_rows": 260,
+  "test_rows": 156,
+  "train_start": "2023-07-01",
+  "train_end": "2025-02-01",
+  "test_start": "2025-03-01",
+  "test_end": "2026-02-01",
+  "train_months": 20,
+  "test_months": 12,
+  "threshold_pct": 10.0,
+  "probability_cutoff": 0.5,
+  "seed": 42,
+  "python": "3.14.7",
+  "packages": {
+    "pandas": "3.0.6",
+    "numpy": "2.5.3",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "openpyxl": "3.1.5"
+  },
+  "aggregate_feb2026_change_pct": 37.9227885401
+}

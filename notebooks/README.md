@@ -1,13 +1,11 @@
-# Notebook workflow
+# Executed analysis
 
-The analysis notebooks will be developed in this order:
+Open [01_cpi_spike_analysis.ipynb](01_cpi_spike_analysis.ipynb) for the completed analysis and saved outputs.
 
-1. **01_data_overview.ipynb** — inspect sources, dates, groups, missing values, and basic distributions.
-2. **02_exploratory_analysis.ipynb** — visualize CPI levels, monthly changes, volatility, and group differences.
-3. **03_feature_engineering.ipynb** — create lagged changes, rolling means, rolling volatility, and the spike target.
-4. **04_logistic_regression.ipynb** — fit and evaluate the interpretable baseline model.
-5. **05_random_forest.ipynb** — fit and evaluate the nonlinear comparison model.
-6. **06_time_series_benchmark.ipynb** — optional ARIMA/SARIMA benchmark.
-7. **07_regional_context.ipynb** — use regional price snapshots and external CPI references only for contextual comparison.
+From the repository root, install requirements and run:
 
-Results should only be added after the notebooks are run on the documented source data.
+```bash
+python -m scripts.execute_notebook
+```
+
+The notebook invokes the same pipeline as `python -m src.analysis`, inspects the frozen input and outputs, and independently verifies evaluation metrics. Figures are stored in `reports/figures/` and linked from the notebook and root README.
