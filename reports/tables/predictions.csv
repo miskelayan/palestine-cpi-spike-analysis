@@ -1,0 +1,1873 @@
+date,code,group_en,pct_change,is_spike,model,threshold_pct,probability,prediction
+2025-03-01,01,Food and Non-Alcoholic Beverages,42.97477065,1,No spike,5,0,0
+2025-03-01,02,"Alcholoic Beverages, Tobacco and Narcotics",77.78101061,1,No spike,5,0,0
+2025-03-01,03,Clothing and Footwear,-0.1146437264,0,No spike,5,0,0
+2025-03-01,04,"Housing, Water, Electricity, Gas and Other Fuels",207.4899283,1,No spike,5,0,0
+2025-03-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",4.062145293,0,No spike,5,0,0
+2025-03-01,06,Health,0,0,No spike,5,0,0
+2025-03-01,07,Transport,-16.84801965,0,No spike,5,0,0
+2025-03-01,08,Information and Communication,0,0,No spike,5,0,0
+2025-03-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,5,0,0
+2025-03-01,10,Education Services,0,0,No spike,5,0,0
+2025-03-01,11,Resturants and Accomodation Services,0,0,No spike,5,0,0
+2025-03-01,12,Insurance and Financial Services,0.3366684021,0,No spike,5,0,0
+2025-03-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.423687254,0,No spike,5,0,0
+2025-04-01,01,Food and Non-Alcoholic Beverages,60.38889677,1,No spike,5,0,0
+2025-04-01,02,"Alcholoic Beverages, Tobacco and Narcotics",143.2605696,1,No spike,5,0,0
+2025-04-01,03,Clothing and Footwear,0.09368695993,0,No spike,5,0,0
+2025-04-01,04,"Housing, Water, Electricity, Gas and Other Fuels",110.823997,1,No spike,5,0,0
+2025-04-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",36.45339319,1,No spike,5,0,0
+2025-04-01,06,Health,0,0,No spike,5,0,0
+2025-04-01,07,Transport,54.1137936,1,No spike,5,0,0
+2025-04-01,08,Information and Communication,0,0,No spike,5,0,0
+2025-04-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,5,0,0
+2025-04-01,10,Education Services,0,0,No spike,5,0,0
+2025-04-01,11,Resturants and Accomodation Services,0,0,No spike,5,0,0
+2025-04-01,12,Insurance and Financial Services,0.2019427172,0,No spike,5,0,0
+2025-04-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",25.56268603,1,No spike,5,0,0
+2025-05-01,01,Food and Non-Alcoholic Beverages,48.53550618,1,No spike,5,0,0
+2025-05-01,02,"Alcholoic Beverages, Tobacco and Narcotics",96.131111,1,No spike,5,0,0
+2025-05-01,03,Clothing and Footwear,0.1495926846,0,No spike,5,0,0
+2025-05-01,04,"Housing, Water, Electricity, Gas and Other Fuels",8.536733283,1,No spike,5,0,0
+2025-05-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.7962139351,0,No spike,5,0,0
+2025-05-01,06,Health,0,0,No spike,5,0,0
+2025-05-01,07,Transport,-20.81133217,0,No spike,5,0,0
+2025-05-01,08,Information and Communication,0,0,No spike,5,0,0
+2025-05-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,5,0,0
+2025-05-01,10,Education Services,0,0,No spike,5,0,0
+2025-05-01,11,Resturants and Accomodation Services,0,0,No spike,5,0,0
+2025-05-01,12,Insurance and Financial Services,-0.550186821,0,No spike,5,0,0
+2025-05-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",7.050209979,1,No spike,5,0,0
+2025-06-01,01,Food and Non-Alcoholic Beverages,91.13649179,1,No spike,5,0,0
+2025-06-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-65.95014339,0,No spike,5,0,0
+2025-06-01,03,Clothing and Footwear,0,0,No spike,5,0,0
+2025-06-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-0.4720682098,0,No spike,5,0,0
+2025-06-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",0,0,No spike,5,0,0
+2025-06-01,06,Health,0,0,No spike,5,0,0
+2025-06-01,07,Transport,41.07879566,1,No spike,5,0,0
+2025-06-01,08,Information and Communication,0.4349320315,0,No spike,5,0,0
+2025-06-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,5,0,0
+2025-06-01,10,Education Services,0,0,No spike,5,0,0
+2025-06-01,11,Resturants and Accomodation Services,0,0,No spike,5,0,0
+2025-06-01,12,Insurance and Financial Services,-0.3182850236,0,No spike,5,0,0
+2025-06-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.713476785,1,No spike,5,0,0
+2025-07-01,01,Food and Non-Alcoholic Beverages,5.768769994,1,No spike,5,0,0
+2025-07-01,02,"Alcholoic Beverages, Tobacco and Narcotics",12.97445539,1,No spike,5,0,0
+2025-07-01,03,Clothing and Footwear,0,0,No spike,5,0,0
+2025-07-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.1779708939,0,No spike,5,0,0
+2025-07-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-2.106913641,0,No spike,5,0,0
+2025-07-01,06,Health,0,0,No spike,5,0,0
+2025-07-01,07,Transport,11.18334735,1,No spike,5,0,0
+2025-07-01,08,Information and Communication,0,0,No spike,5,0,0
+2025-07-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,5,0,0
+2025-07-01,10,Education Services,0,0,No spike,5,0,0
+2025-07-01,11,Resturants and Accomodation Services,0,0,No spike,5,0,0
+2025-07-01,12,Insurance and Financial Services,-0.6143993117,0,No spike,5,0,0
+2025-07-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",14.44162706,1,No spike,5,0,0
+2025-08-01,01,Food and Non-Alcoholic Beverages,-33.57579974,0,No spike,5,0,0
+2025-08-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-14.80433993,0,No spike,5,0,0
+2025-08-01,03,Clothing and Footwear,0,0,No spike,5,0,0
+2025-08-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.2489650617,0,No spike,5,0,0
+2025-08-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-4.335432736,0,No spike,5,0,0
+2025-08-01,06,Health,0,0,No spike,5,0,0
+2025-08-01,07,Transport,20.03027605,1,No spike,5,0,0
+2025-08-01,08,Information and Communication,0,0,No spike,5,0,0
+2025-08-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,5,0,0
+2025-08-01,10,Education Services,0,0,No spike,5,0,0
+2025-08-01,11,Resturants and Accomodation Services,0,0,No spike,5,0,0
+2025-08-01,12,Insurance and Financial Services,-0.320089447,0,No spike,5,0,0
+2025-08-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.778493139,1,No spike,5,0,0
+2025-09-01,01,Food and Non-Alcoholic Beverages,-15.53621426,0,No spike,5,0,0
+2025-09-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-64.93696868,0,No spike,5,0,0
+2025-09-01,03,Clothing and Footwear,0,0,No spike,5,0,0
+2025-09-01,04,"Housing, Water, Electricity, Gas and Other Fuels",27.26431351,1,No spike,5,0,0
+2025-09-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",20.29934675,1,No spike,5,0,0
+2025-09-01,06,Health,0,0,No spike,5,0,0
+2025-09-01,07,Transport,-6.473533872,0,No spike,5,0,0
+2025-09-01,08,Information and Communication,0.2080374224,0,No spike,5,0,0
+2025-09-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,5,0,0
+2025-09-01,10,Education Services,0,0,No spike,5,0,0
+2025-09-01,11,Resturants and Accomodation Services,0,0,No spike,5,0,0
+2025-09-01,12,Insurance and Financial Services,0.1405459785,0,No spike,5,0,0
+2025-09-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-18.88576501,0,No spike,5,0,0
+2025-10-01,01,Food and Non-Alcoholic Beverages,-30.34260931,0,No spike,5,0,0
+2025-10-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-49.91871844,0,No spike,5,0,0
+2025-10-01,03,Clothing and Footwear,-7.64180752,0,No spike,5,0,0
+2025-10-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-78.61101116,0,No spike,5,0,0
+2025-10-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-20.31012074,0,No spike,5,0,0
+2025-10-01,06,Health,0,0,No spike,5,0,0
+2025-10-01,07,Transport,-20.04685482,0,No spike,5,0,0
+2025-10-01,08,Information and Communication,0,0,No spike,5,0,0
+2025-10-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,5,0,0
+2025-10-01,10,Education Services,0,0,No spike,5,0,0
+2025-10-01,11,Resturants and Accomodation Services,0,0,No spike,5,0,0
+2025-10-01,12,Insurance and Financial Services,-0.2475672801,0,No spike,5,0,0
+2025-10-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-24.89548125,0,No spike,5,0,0
+2025-11-01,01,Food and Non-Alcoholic Beverages,-55.23510808,0,No spike,5,0,0
+2025-11-01,02,"Alcholoic Beverages, Tobacco and Narcotics",11.05807049,1,No spike,5,0,0
+2025-11-01,03,Clothing and Footwear,-15.96097173,0,No spike,5,0,0
+2025-11-01,04,"Housing, Water, Electricity, Gas and Other Fuels",2.526403938,0,No spike,5,0,0
+2025-11-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-19.86288119,0,No spike,5,0,0
+2025-11-01,06,Health,0,0,No spike,5,0,0
+2025-11-01,07,Transport,-28.34042856,0,No spike,5,0,0
+2025-11-01,08,Information and Communication,0,0,No spike,5,0,0
+2025-11-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,5,0,0
+2025-11-01,10,Education Services,0,0,No spike,5,0,0
+2025-11-01,11,Resturants and Accomodation Services,0,0,No spike,5,0,0
+2025-11-01,12,Insurance and Financial Services,-0.1019218001,0,No spike,5,0,0
+2025-11-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-4.604365303,0,No spike,5,0,0
+2025-12-01,01,Food and Non-Alcoholic Beverages,-21.0677955,0,No spike,5,0,0
+2025-12-01,02,"Alcholoic Beverages, Tobacco and Narcotics",28.03696231,1,No spike,5,0,0
+2025-12-01,03,Clothing and Footwear,15.25497474,1,No spike,5,0,0
+2025-12-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-4.973916215,0,No spike,5,0,0
+2025-12-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-5.692729687,0,No spike,5,0,0
+2025-12-01,06,Health,0,0,No spike,5,0,0
+2025-12-01,07,Transport,-38.47549494,0,No spike,5,0,0
+2025-12-01,08,Information and Communication,0,0,No spike,5,0,0
+2025-12-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,5,0,0
+2025-12-01,10,Education Services,0,0,No spike,5,0,0
+2025-12-01,11,Resturants and Accomodation Services,3.646167423,0,No spike,5,0,0
+2025-12-01,12,Insurance and Financial Services,-0.1905749826,0,No spike,5,0,0
+2025-12-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-1.480742342,0,No spike,5,0,0
+2026-01-01,01,Food and Non-Alcoholic Beverages,-5.986423122,0,No spike,5,0,0
+2026-01-01,02,"Alcholoic Beverages, Tobacco and Narcotics",26.04471324,1,No spike,5,0,0
+2026-01-01,03,Clothing and Footwear,12.88696575,1,No spike,5,0,0
+2026-01-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-1.100689656,0,No spike,5,0,0
+2026-01-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.6384709768,0,No spike,5,0,0
+2026-01-01,06,Health,0,0,No spike,5,0,0
+2026-01-01,07,Transport,-3.103486878,0,No spike,5,0,0
+2026-01-01,08,Information and Communication,0,0,No spike,5,0,0
+2026-01-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,5,0,0
+2026-01-01,10,Education Services,0,0,No spike,5,0,0
+2026-01-01,11,Resturants and Accomodation Services,-0.8575502774,0,No spike,5,0,0
+2026-01-01,12,Insurance and Financial Services,-0.3424349794,0,No spike,5,0,0
+2026-01-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",3.832972616,0,No spike,5,0,0
+2026-02-01,01,Food and Non-Alcoholic Beverages,-5.435105199,0,No spike,5,0,0
+2026-02-01,02,"Alcholoic Beverages, Tobacco and Narcotics",282.77494,1,No spike,5,0,0
+2026-02-01,03,Clothing and Footwear,3.152366104,0,No spike,5,0,0
+2026-02-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-14.09411416,0,No spike,5,0,0
+2026-02-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.606720969,0,No spike,5,0,0
+2026-02-01,06,Health,0,0,No spike,5,0,0
+2026-02-01,07,Transport,-8.194061751,0,No spike,5,0,0
+2026-02-01,08,Information and Communication,0,0,No spike,5,0,0
+2026-02-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,5,0,0
+2026-02-01,10,Education Services,0,0,No spike,5,0,0
+2026-02-01,11,Resturants and Accomodation Services,0,0,No spike,5,0,0
+2026-02-01,12,Insurance and Financial Services,-0.1596645015,0,No spike,5,0,0
+2026-02-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.486228689,0,No spike,5,0,0
+2025-03-01,01,Food and Non-Alcoholic Beverages,42.97477065,1,Persistence,5,0,0
+2025-03-01,02,"Alcholoic Beverages, Tobacco and Narcotics",77.78101061,1,Persistence,5,0,0
+2025-03-01,03,Clothing and Footwear,-0.1146437264,0,Persistence,5,0,0
+2025-03-01,04,"Housing, Water, Electricity, Gas and Other Fuels",207.4899283,1,Persistence,5,0,0
+2025-03-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",4.062145293,0,Persistence,5,0,0
+2025-03-01,06,Health,0,0,Persistence,5,0,0
+2025-03-01,07,Transport,-16.84801965,0,Persistence,5,1,1
+2025-03-01,08,Information and Communication,0,0,Persistence,5,0,0
+2025-03-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,5,0,0
+2025-03-01,10,Education Services,0,0,Persistence,5,0,0
+2025-03-01,11,Resturants and Accomodation Services,0,0,Persistence,5,0,0
+2025-03-01,12,Insurance and Financial Services,0.3366684021,0,Persistence,5,0,0
+2025-03-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.423687254,0,Persistence,5,0,0
+2025-04-01,01,Food and Non-Alcoholic Beverages,60.38889677,1,Persistence,5,1,1
+2025-04-01,02,"Alcholoic Beverages, Tobacco and Narcotics",143.2605696,1,Persistence,5,1,1
+2025-04-01,03,Clothing and Footwear,0.09368695993,0,Persistence,5,0,0
+2025-04-01,04,"Housing, Water, Electricity, Gas and Other Fuels",110.823997,1,Persistence,5,1,1
+2025-04-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",36.45339319,1,Persistence,5,0,0
+2025-04-01,06,Health,0,0,Persistence,5,0,0
+2025-04-01,07,Transport,54.1137936,1,Persistence,5,0,0
+2025-04-01,08,Information and Communication,0,0,Persistence,5,0,0
+2025-04-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,5,0,0
+2025-04-01,10,Education Services,0,0,Persistence,5,0,0
+2025-04-01,11,Resturants and Accomodation Services,0,0,Persistence,5,0,0
+2025-04-01,12,Insurance and Financial Services,0.2019427172,0,Persistence,5,0,0
+2025-04-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",25.56268603,1,Persistence,5,0,0
+2025-05-01,01,Food and Non-Alcoholic Beverages,48.53550618,1,Persistence,5,1,1
+2025-05-01,02,"Alcholoic Beverages, Tobacco and Narcotics",96.131111,1,Persistence,5,1,1
+2025-05-01,03,Clothing and Footwear,0.1495926846,0,Persistence,5,0,0
+2025-05-01,04,"Housing, Water, Electricity, Gas and Other Fuels",8.536733283,1,Persistence,5,1,1
+2025-05-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.7962139351,0,Persistence,5,1,1
+2025-05-01,06,Health,0,0,Persistence,5,0,0
+2025-05-01,07,Transport,-20.81133217,0,Persistence,5,1,1
+2025-05-01,08,Information and Communication,0,0,Persistence,5,0,0
+2025-05-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,5,0,0
+2025-05-01,10,Education Services,0,0,Persistence,5,0,0
+2025-05-01,11,Resturants and Accomodation Services,0,0,Persistence,5,0,0
+2025-05-01,12,Insurance and Financial Services,-0.550186821,0,Persistence,5,0,0
+2025-05-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",7.050209979,1,Persistence,5,1,1
+2025-06-01,01,Food and Non-Alcoholic Beverages,91.13649179,1,Persistence,5,1,1
+2025-06-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-65.95014339,0,Persistence,5,1,1
+2025-06-01,03,Clothing and Footwear,0,0,Persistence,5,0,0
+2025-06-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-0.4720682098,0,Persistence,5,1,1
+2025-06-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",0,0,Persistence,5,0,0
+2025-06-01,06,Health,0,0,Persistence,5,0,0
+2025-06-01,07,Transport,41.07879566,1,Persistence,5,0,0
+2025-06-01,08,Information and Communication,0.4349320315,0,Persistence,5,0,0
+2025-06-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,5,0,0
+2025-06-01,10,Education Services,0,0,Persistence,5,0,0
+2025-06-01,11,Resturants and Accomodation Services,0,0,Persistence,5,0,0
+2025-06-01,12,Insurance and Financial Services,-0.3182850236,0,Persistence,5,0,0
+2025-06-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.713476785,1,Persistence,5,1,1
+2025-07-01,01,Food and Non-Alcoholic Beverages,5.768769994,1,Persistence,5,1,1
+2025-07-01,02,"Alcholoic Beverages, Tobacco and Narcotics",12.97445539,1,Persistence,5,0,0
+2025-07-01,03,Clothing and Footwear,0,0,Persistence,5,0,0
+2025-07-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.1779708939,0,Persistence,5,0,0
+2025-07-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-2.106913641,0,Persistence,5,0,0
+2025-07-01,06,Health,0,0,Persistence,5,0,0
+2025-07-01,07,Transport,11.18334735,1,Persistence,5,1,1
+2025-07-01,08,Information and Communication,0,0,Persistence,5,0,0
+2025-07-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,5,0,0
+2025-07-01,10,Education Services,0,0,Persistence,5,0,0
+2025-07-01,11,Resturants and Accomodation Services,0,0,Persistence,5,0,0
+2025-07-01,12,Insurance and Financial Services,-0.6143993117,0,Persistence,5,0,0
+2025-07-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",14.44162706,1,Persistence,5,1,1
+2025-08-01,01,Food and Non-Alcoholic Beverages,-33.57579974,0,Persistence,5,1,1
+2025-08-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-14.80433993,0,Persistence,5,1,1
+2025-08-01,03,Clothing and Footwear,0,0,Persistence,5,0,0
+2025-08-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.2489650617,0,Persistence,5,0,0
+2025-08-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-4.335432736,0,Persistence,5,0,0
+2025-08-01,06,Health,0,0,Persistence,5,0,0
+2025-08-01,07,Transport,20.03027605,1,Persistence,5,1,1
+2025-08-01,08,Information and Communication,0,0,Persistence,5,0,0
+2025-08-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,5,0,0
+2025-08-01,10,Education Services,0,0,Persistence,5,0,0
+2025-08-01,11,Resturants and Accomodation Services,0,0,Persistence,5,0,0
+2025-08-01,12,Insurance and Financial Services,-0.320089447,0,Persistence,5,0,0
+2025-08-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.778493139,1,Persistence,5,1,1
+2025-09-01,01,Food and Non-Alcoholic Beverages,-15.53621426,0,Persistence,5,0,0
+2025-09-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-64.93696868,0,Persistence,5,0,0
+2025-09-01,03,Clothing and Footwear,0,0,Persistence,5,0,0
+2025-09-01,04,"Housing, Water, Electricity, Gas and Other Fuels",27.26431351,1,Persistence,5,0,0
+2025-09-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",20.29934675,1,Persistence,5,0,0
+2025-09-01,06,Health,0,0,Persistence,5,0,0
+2025-09-01,07,Transport,-6.473533872,0,Persistence,5,1,1
+2025-09-01,08,Information and Communication,0.2080374224,0,Persistence,5,0,0
+2025-09-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,5,0,0
+2025-09-01,10,Education Services,0,0,Persistence,5,0,0
+2025-09-01,11,Resturants and Accomodation Services,0,0,Persistence,5,0,0
+2025-09-01,12,Insurance and Financial Services,0.1405459785,0,Persistence,5,0,0
+2025-09-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-18.88576501,0,Persistence,5,1,1
+2025-10-01,01,Food and Non-Alcoholic Beverages,-30.34260931,0,Persistence,5,0,0
+2025-10-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-49.91871844,0,Persistence,5,0,0
+2025-10-01,03,Clothing and Footwear,-7.64180752,0,Persistence,5,0,0
+2025-10-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-78.61101116,0,Persistence,5,1,1
+2025-10-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-20.31012074,0,Persistence,5,1,1
+2025-10-01,06,Health,0,0,Persistence,5,0,0
+2025-10-01,07,Transport,-20.04685482,0,Persistence,5,0,0
+2025-10-01,08,Information and Communication,0,0,Persistence,5,0,0
+2025-10-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,5,0,0
+2025-10-01,10,Education Services,0,0,Persistence,5,0,0
+2025-10-01,11,Resturants and Accomodation Services,0,0,Persistence,5,0,0
+2025-10-01,12,Insurance and Financial Services,-0.2475672801,0,Persistence,5,0,0
+2025-10-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-24.89548125,0,Persistence,5,0,0
+2025-11-01,01,Food and Non-Alcoholic Beverages,-55.23510808,0,Persistence,5,0,0
+2025-11-01,02,"Alcholoic Beverages, Tobacco and Narcotics",11.05807049,1,Persistence,5,0,0
+2025-11-01,03,Clothing and Footwear,-15.96097173,0,Persistence,5,0,0
+2025-11-01,04,"Housing, Water, Electricity, Gas and Other Fuels",2.526403938,0,Persistence,5,0,0
+2025-11-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-19.86288119,0,Persistence,5,0,0
+2025-11-01,06,Health,0,0,Persistence,5,0,0
+2025-11-01,07,Transport,-28.34042856,0,Persistence,5,0,0
+2025-11-01,08,Information and Communication,0,0,Persistence,5,0,0
+2025-11-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,5,0,0
+2025-11-01,10,Education Services,0,0,Persistence,5,0,0
+2025-11-01,11,Resturants and Accomodation Services,0,0,Persistence,5,0,0
+2025-11-01,12,Insurance and Financial Services,-0.1019218001,0,Persistence,5,0,0
+2025-11-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-4.604365303,0,Persistence,5,0,0
+2025-12-01,01,Food and Non-Alcoholic Beverages,-21.0677955,0,Persistence,5,0,0
+2025-12-01,02,"Alcholoic Beverages, Tobacco and Narcotics",28.03696231,1,Persistence,5,1,1
+2025-12-01,03,Clothing and Footwear,15.25497474,1,Persistence,5,0,0
+2025-12-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-4.973916215,0,Persistence,5,0,0
+2025-12-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-5.692729687,0,Persistence,5,0,0
+2025-12-01,06,Health,0,0,Persistence,5,0,0
+2025-12-01,07,Transport,-38.47549494,0,Persistence,5,0,0
+2025-12-01,08,Information and Communication,0,0,Persistence,5,0,0
+2025-12-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,5,0,0
+2025-12-01,10,Education Services,0,0,Persistence,5,0,0
+2025-12-01,11,Resturants and Accomodation Services,3.646167423,0,Persistence,5,0,0
+2025-12-01,12,Insurance and Financial Services,-0.1905749826,0,Persistence,5,0,0
+2025-12-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-1.480742342,0,Persistence,5,0,0
+2026-01-01,01,Food and Non-Alcoholic Beverages,-5.986423122,0,Persistence,5,0,0
+2026-01-01,02,"Alcholoic Beverages, Tobacco and Narcotics",26.04471324,1,Persistence,5,1,1
+2026-01-01,03,Clothing and Footwear,12.88696575,1,Persistence,5,1,1
+2026-01-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-1.100689656,0,Persistence,5,0,0
+2026-01-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.6384709768,0,Persistence,5,0,0
+2026-01-01,06,Health,0,0,Persistence,5,0,0
+2026-01-01,07,Transport,-3.103486878,0,Persistence,5,0,0
+2026-01-01,08,Information and Communication,0,0,Persistence,5,0,0
+2026-01-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,5,0,0
+2026-01-01,10,Education Services,0,0,Persistence,5,0,0
+2026-01-01,11,Resturants and Accomodation Services,-0.8575502774,0,Persistence,5,0,0
+2026-01-01,12,Insurance and Financial Services,-0.3424349794,0,Persistence,5,0,0
+2026-01-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",3.832972616,0,Persistence,5,0,0
+2026-02-01,01,Food and Non-Alcoholic Beverages,-5.435105199,0,Persistence,5,0,0
+2026-02-01,02,"Alcholoic Beverages, Tobacco and Narcotics",282.77494,1,Persistence,5,1,1
+2026-02-01,03,Clothing and Footwear,3.152366104,0,Persistence,5,1,1
+2026-02-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-14.09411416,0,Persistence,5,0,0
+2026-02-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.606720969,0,Persistence,5,0,0
+2026-02-01,06,Health,0,0,Persistence,5,0,0
+2026-02-01,07,Transport,-8.194061751,0,Persistence,5,0,0
+2026-02-01,08,Information and Communication,0,0,Persistence,5,0,0
+2026-02-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,5,0,0
+2026-02-01,10,Education Services,0,0,Persistence,5,0,0
+2026-02-01,11,Resturants and Accomodation Services,0,0,Persistence,5,0,0
+2026-02-01,12,Insurance and Financial Services,-0.1596645015,0,Persistence,5,0,0
+2026-02-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.486228689,0,Persistence,5,0,0
+2025-03-01,01,Food and Non-Alcoholic Beverages,42.97477065,1,Logistic Regression,5,0.6790773991,1
+2025-03-01,02,"Alcholoic Beverages, Tobacco and Narcotics",77.78101061,1,Logistic Regression,5,0.4158358412,0
+2025-03-01,03,Clothing and Footwear,-0.1146437264,0,Logistic Regression,5,0.3855618466,0
+2025-03-01,04,"Housing, Water, Electricity, Gas and Other Fuels",207.4899283,1,Logistic Regression,5,0.4001657525,0
+2025-03-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",4.062145293,0,Logistic Regression,5,0.4974437266,0
+2025-03-01,06,Health,0,0,Logistic Regression,5,0.7677223756,1
+2025-03-01,07,Transport,-16.84801965,0,Logistic Regression,5,0.7767896028,1
+2025-03-01,08,Information and Communication,0,0,Logistic Regression,5,0.1396702531,0
+2025-03-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,5,0.1370705765,0
+2025-03-01,10,Education Services,0,0,Logistic Regression,5,0.1374682741,0
+2025-03-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,5,0.1370458143,0
+2025-03-01,12,Insurance and Financial Services,0.3366684021,0,Logistic Regression,5,0.1375612716,0
+2025-03-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.423687254,0,Logistic Regression,5,0.4784063632,0
+2025-04-01,01,Food and Non-Alcoholic Beverages,60.38889677,1,Logistic Regression,5,0.8887633053,1
+2025-04-01,02,"Alcholoic Beverages, Tobacco and Narcotics",143.2605696,1,Logistic Regression,5,0.8722225879,1
+2025-04-01,03,Clothing and Footwear,0.09368695993,0,Logistic Regression,5,0.4296972804,0
+2025-04-01,04,"Housing, Water, Electricity, Gas and Other Fuels",110.823997,1,Logistic Regression,5,0.9805721043,1
+2025-04-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",36.45339319,1,Logistic Regression,5,0.5262721179,1
+2025-04-01,06,Health,0,0,Logistic Regression,5,0.7727448526,1
+2025-04-01,07,Transport,54.1137936,1,Logistic Regression,5,0.7298632229,1
+2025-04-01,08,Information and Communication,0,0,Logistic Regression,5,0.1443636547,0
+2025-04-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,5,0.1400407167,0
+2025-04-01,10,Education Services,0,0,Logistic Regression,5,0.1391700438,0
+2025-04-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,5,0.1387431954,0
+2025-04-01,12,Insurance and Financial Services,0.2019427172,0,Logistic Regression,5,0.1405619036,0
+2025-04-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",25.56268603,1,Logistic Regression,5,0.4950030537,0
+2025-05-01,01,Food and Non-Alcoholic Beverages,48.53550618,1,Logistic Regression,5,0.9723856583,1
+2025-05-01,02,"Alcholoic Beverages, Tobacco and Narcotics",96.131111,1,Logistic Regression,5,0.991703665,1
+2025-05-01,03,Clothing and Footwear,0.1495926846,0,Logistic Regression,5,0.4298070223,0
+2025-05-01,04,"Housing, Water, Electricity, Gas and Other Fuels",8.536733283,1,Logistic Regression,5,0.9925212451,1
+2025-05-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.7962139351,0,Logistic Regression,5,0.7256396139,1
+2025-05-01,06,Health,0,0,Logistic Regression,5,0.7532708163,1
+2025-05-01,07,Transport,-20.81133217,0,Logistic Regression,5,0.8975353136,1
+2025-05-01,08,Information and Communication,0,0,Logistic Regression,5,0.1360375603,0
+2025-05-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,5,0.1319255037,0
+2025-05-01,10,Education Services,0,0,Logistic Regression,5,0.1310975938,0
+2025-05-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,5,0.1306917455,0
+2025-05-01,12,Insurance and Financial Services,-0.550186821,0,Logistic Regression,5,0.1328575922,0
+2025-05-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",7.050209979,1,Logistic Regression,5,0.6382485321,1
+2025-06-01,01,Food and Non-Alcoholic Beverages,91.13649179,1,Logistic Regression,5,0.9868829771,1
+2025-06-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-65.95014339,0,Logistic Regression,5,0.9976574296,1
+2025-06-01,03,Clothing and Footwear,0,0,Logistic Regression,5,0.2862831227,0
+2025-06-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-0.4720682098,0,Logistic Regression,5,0.9232258097,1
+2025-06-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",0,0,Logistic Regression,5,0.6151664131,1
+2025-06-01,06,Health,0,0,Logistic Regression,5,0.7275426887,1
+2025-06-01,07,Transport,41.07879566,1,Logistic Regression,5,0.7747552591,1
+2025-06-01,08,Information and Communication,0.4349320315,0,Logistic Regression,5,0.1210482222,0
+2025-06-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,5,0.1173277235,0
+2025-06-01,10,Education Services,0,0,Logistic Regression,5,0.1165791204,0
+2025-06-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,5,0.1162122067,0
+2025-06-01,12,Insurance and Financial Services,-0.3182850236,0,Logistic Regression,5,0.1167749387,0
+2025-06-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.713476785,1,Logistic Regression,5,0.595749816,1
+2025-07-01,01,Food and Non-Alcoholic Beverages,5.768769994,1,Logistic Regression,5,0.9886262464,1
+2025-07-01,02,"Alcholoic Beverages, Tobacco and Narcotics",12.97445539,1,Logistic Regression,5,0.81673788,1
+2025-07-01,03,Clothing and Footwear,0,0,Logistic Regression,5,0.2222759068,0
+2025-07-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.1779708939,0,Logistic Regression,5,0.6973041438,1
+2025-07-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-2.106913641,0,Logistic Regression,5,0.476007174,0
+2025-07-01,06,Health,0,0,Logistic Regression,5,0.6940841954,1
+2025-07-01,07,Transport,11.18334735,1,Logistic Regression,5,0.8414387674,1
+2025-07-01,08,Information and Communication,0,0,Logistic Regression,5,0.1017646228,0
+2025-07-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,5,0.09972478578,0
+2025-07-01,10,Education Services,0,0,Logistic Regression,5,0.1008206861,0
+2025-07-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,5,0.1004977273,0
+2025-07-01,12,Insurance and Financial Services,-0.6143993117,0,Logistic Regression,5,0.1006149345,0
+2025-07-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",14.44162706,1,Logistic Regression,5,0.5095720842,1
+2025-08-01,01,Food and Non-Alcoholic Beverages,-33.57579974,0,Logistic Regression,5,0.8488282912,1
+2025-08-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-14.80433993,0,Logistic Regression,5,0.5198251833,1
+2025-08-01,03,Clothing and Footwear,0,0,Logistic Regression,5,0.1933766608,0
+2025-08-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.2489650617,0,Logistic Regression,5,0.7293913847,1
+2025-08-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-4.335432736,0,Logistic Regression,5,0.4426956273,0
+2025-08-01,06,Health,0,0,Logistic Regression,5,0.6617409803,1
+2025-08-01,07,Transport,20.03027605,1,Logistic Regression,5,0.7579857506,1
+2025-08-01,08,Information and Communication,0,0,Logistic Regression,5,0.08864031811,0
+2025-08-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,5,0.08718449028,0
+2025-08-01,10,Education Services,0,0,Logistic Regression,5,0.08815607657,0
+2025-08-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,5,0.08786972188,0
+2025-08-01,12,Insurance and Financial Services,-0.320089447,0,Logistic Regression,5,0.08821649965,0
+2025-08-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.778493139,1,Logistic Regression,5,0.4776611662,0
+2025-09-01,01,Food and Non-Alcoholic Beverages,-15.53621426,0,Logistic Regression,5,0.3128816157,0
+2025-09-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-64.93696868,0,Logistic Regression,5,0.4370637797,0
+2025-09-01,03,Clothing and Footwear,0,0,Logistic Regression,5,0.1625063002,0
+2025-09-01,04,"Housing, Water, Electricity, Gas and Other Fuels",27.26431351,1,Logistic Regression,5,0.5583091562,1
+2025-09-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",20.29934675,1,Logistic Regression,5,0.3731368707,0
+2025-09-01,06,Health,0,0,Logistic Regression,5,0.6404328236,1
+2025-09-01,07,Transport,-6.473533872,0,Logistic Regression,5,0.7948833867,1
+2025-09-01,08,Information and Communication,0.2080374224,0,Logistic Regression,5,0.08104054718,0
+2025-09-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,5,0.08000151858,0
+2025-09-01,10,Education Services,0,0,Logistic Regression,5,0.080900152,0
+2025-09-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,5,0.08063528225,0
+2025-09-01,12,Insurance and Financial Services,0.1405459785,0,Logistic Regression,5,0.08126988619,0
+2025-09-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-18.88576501,0,Logistic Regression,5,0.3953339115,0
+2025-10-01,01,Food and Non-Alcoholic Beverages,-30.34260931,0,Logistic Regression,5,0.5058540894,1
+2025-10-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-49.91871844,0,Logistic Regression,5,0.4779511399,0
+2025-10-01,03,Clothing and Footwear,-7.64180752,0,Logistic Regression,5,0.160316345,0
+2025-10-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-78.61101116,0,Logistic Regression,5,0.5704098109,1
+2025-10-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-20.31012074,0,Logistic Regression,5,0.4388008412,0
+2025-10-01,06,Health,0,0,Logistic Regression,5,0.6371382844,1
+2025-10-01,07,Transport,-20.04685482,0,Logistic Regression,5,0.6387535325,1
+2025-10-01,08,Information and Communication,0,0,Logistic Regression,5,0.08025482967,0
+2025-10-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,5,0.0789568991,0
+2025-10-01,10,Education Services,0,0,Logistic Regression,5,0.07984481697,0
+2025-10-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,5,0.07958310325,0
+2025-10-01,12,Insurance and Financial Services,-0.2475672801,0,Logistic Regression,5,0.08095025275,0
+2025-10-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-24.89548125,0,Logistic Regression,5,0.2687721741,0
+2025-11-01,01,Food and Non-Alcoholic Beverages,-55.23510808,0,Logistic Regression,5,0.6717082855,1
+2025-11-01,02,"Alcholoic Beverages, Tobacco and Narcotics",11.05807049,1,Logistic Regression,5,0.5675781381,1
+2025-11-01,03,Clothing and Footwear,-15.96097173,0,Logistic Regression,5,0.1599048328,0
+2025-11-01,04,"Housing, Water, Electricity, Gas and Other Fuels",2.526403938,0,Logistic Regression,5,0.2188773344,0
+2025-11-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-19.86288119,0,Logistic Regression,5,0.3468153743,0
+2025-11-01,06,Health,0,0,Logistic Regression,5,0.6529548767,1
+2025-11-01,07,Transport,-28.34042856,0,Logistic Regression,5,0.5716578048,1
+2025-11-01,08,Information and Communication,0,0,Logistic Regression,5,0.08534173274,0
+2025-11-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,5,0.08412960014,0
+2025-11-01,10,Education Services,0,0,Logistic Regression,5,0.08507031538,0
+2025-11-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,5,0.08479305198,0
+2025-11-01,12,Insurance and Financial Services,-0.1019218001,0,Logistic Regression,5,0.0863139339,0
+2025-11-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-4.604365303,0,Logistic Regression,5,0.2668413931,0
+2025-12-01,01,Food and Non-Alcoholic Beverages,-21.0677955,0,Logistic Regression,5,0.6991757686,1
+2025-12-01,02,"Alcholoic Beverages, Tobacco and Narcotics",28.03696231,1,Logistic Regression,5,0.7754823972,1
+2025-12-01,03,Clothing and Footwear,15.25497474,1,Logistic Regression,5,0.1644774944,0
+2025-12-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-4.973916215,0,Logistic Regression,5,0.3712525212,0
+2025-12-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-5.692729687,0,Logistic Regression,5,0.3179936491,0
+2025-12-01,06,Health,0,0,Logistic Regression,5,0.6826541093,1
+2025-12-01,07,Transport,-38.47549494,0,Logistic Regression,5,0.5473012526,1
+2025-12-01,08,Information and Communication,0,0,Logistic Regression,5,0.09622284255,0
+2025-12-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,5,0.09504165626,0
+2025-12-01,10,Education Services,0,0,Logistic Regression,5,0.09609158558,0
+2025-12-01,11,Resturants and Accomodation Services,3.646167423,0,Logistic Regression,5,0.09578216185,0
+2025-12-01,12,Insurance and Financial Services,-0.1905749826,0,Logistic Regression,5,0.09720883,0
+2025-12-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-1.480742342,0,Logistic Regression,5,0.3965954611,0
+2026-01-01,01,Food and Non-Alcoholic Beverages,-5.986423122,0,Logistic Regression,5,0.7405536499,1
+2026-01-01,02,"Alcholoic Beverages, Tobacco and Narcotics",26.04471324,1,Logistic Regression,5,0.8843767581,1
+2026-01-01,03,Clothing and Footwear,12.88696575,1,Logistic Regression,5,0.2762109109,0
+2026-01-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-1.100689656,0,Logistic Regression,5,0.5773056969,1
+2026-01-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.6384709768,0,Logistic Regression,5,0.4602065527,0
+2026-01-01,06,Health,0,0,Logistic Regression,5,0.7168527479,1
+2026-01-01,07,Transport,-3.103486878,0,Logistic Regression,5,0.6076801359,1
+2026-01-01,08,Information and Communication,0,0,Logistic Regression,5,0.1113982471,0
+2026-01-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,5,0.110007327,0
+2026-01-01,10,Education Services,0,0,Logistic Regression,5,0.1112022672,0
+2026-01-01,11,Resturants and Accomodation Services,-0.8575502774,0,Logistic Regression,5,0.1195508745,0
+2026-01-01,12,Insurance and Financial Services,-0.3424349794,0,Logistic Regression,5,0.1123808152,0
+2026-01-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",3.832972616,0,Logistic Regression,5,0.5177388672,1
+2026-02-01,01,Food and Non-Alcoholic Beverages,-5.435105199,0,Logistic Regression,5,0.8535848212,1
+2026-02-01,02,"Alcholoic Beverages, Tobacco and Narcotics",282.77494,1,Logistic Regression,5,0.9581251468,1
+2026-02-01,03,Clothing and Footwear,3.152366104,0,Logistic Regression,5,0.3706997659,0
+2026-02-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-14.09411416,0,Logistic Regression,5,0.8126417127,1
+2026-02-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.606720969,0,Logistic Regression,5,0.5681836878,1
+2026-02-01,06,Health,0,0,Logistic Regression,5,0.7459494241,1
+2026-02-01,07,Transport,-8.194061751,0,Logistic Regression,5,0.7575882492,1
+2026-02-01,08,Information and Communication,0,0,Logistic Regression,5,0.126937036,0
+2026-02-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,5,0.1253794737,0
+2026-02-01,10,Education Services,0,0,Logistic Regression,5,0.1267176175,0
+2026-02-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,5,0.1301867876,0
+2026-02-01,12,Insurance and Financial Services,-0.1596645015,0,Logistic Regression,5,0.1269387848,0
+2026-02-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.486228689,0,Logistic Regression,5,0.6465784417,1
+2025-03-01,01,Food and Non-Alcoholic Beverages,42.97477065,1,Random Forest,5,0.6750009163,1
+2025-03-01,02,"Alcholoic Beverages, Tobacco and Narcotics",77.78101061,1,Random Forest,5,0.5304069028,1
+2025-03-01,03,Clothing and Footwear,-0.1146437264,0,Random Forest,5,0.6400604404,1
+2025-03-01,04,"Housing, Water, Electricity, Gas and Other Fuels",207.4899283,1,Random Forest,5,0.6231780961,1
+2025-03-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",4.062145293,0,Random Forest,5,0.5894662905,1
+2025-03-01,06,Health,0,0,Random Forest,5,0.1553348121,0
+2025-03-01,07,Transport,-16.84801965,0,Random Forest,5,0.6773679127,1
+2025-03-01,08,Information and Communication,0,0,Random Forest,5,0.1422552013,0
+2025-03-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,5,0.1437820256,0
+2025-03-01,10,Education Services,0,0,Random Forest,5,0.03753003924,0
+2025-03-01,11,Resturants and Accomodation Services,0,0,Random Forest,5,0.03677643535,0
+2025-03-01,12,Insurance and Financial Services,0.3366684021,0,Random Forest,5,0.06348673848,0
+2025-03-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.423687254,0,Random Forest,5,0.3466077735,0
+2025-04-01,01,Food and Non-Alcoholic Beverages,60.38889677,1,Random Forest,5,0.6916195381,1
+2025-04-01,02,"Alcholoic Beverages, Tobacco and Narcotics",143.2605696,1,Random Forest,5,0.7792557232,1
+2025-04-01,03,Clothing and Footwear,0.09368695993,0,Random Forest,5,0.5378579039,1
+2025-04-01,04,"Housing, Water, Electricity, Gas and Other Fuels",110.823997,1,Random Forest,5,0.7861382741,1
+2025-04-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",36.45339319,1,Random Forest,5,0.6445031028,1
+2025-04-01,06,Health,0,0,Random Forest,5,0.122304605,0
+2025-04-01,07,Transport,54.1137936,1,Random Forest,5,0.5738654907,1
+2025-04-01,08,Information and Communication,0,0,Random Forest,5,0.05333440411,0
+2025-04-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,5,0.05824901831,0
+2025-04-01,10,Education Services,0,0,Random Forest,5,0.03753003924,0
+2025-04-01,11,Resturants and Accomodation Services,0,0,Random Forest,5,0.03677643535,0
+2025-04-01,12,Insurance and Financial Services,0.2019427172,0,Random Forest,5,0.06727393054,0
+2025-04-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",25.56268603,1,Random Forest,5,0.3507040823,0
+2025-05-01,01,Food and Non-Alcoholic Beverages,48.53550618,1,Random Forest,5,0.8038312904,1
+2025-05-01,02,"Alcholoic Beverages, Tobacco and Narcotics",96.131111,1,Random Forest,5,0.8514800674,1
+2025-05-01,03,Clothing and Footwear,0.1495926846,0,Random Forest,5,0.4882535788,0
+2025-05-01,04,"Housing, Water, Electricity, Gas and Other Fuels",8.536733283,1,Random Forest,5,0.8177484737,1
+2025-05-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.7962139351,0,Random Forest,5,0.7112506727,1
+2025-05-01,06,Health,0,0,Random Forest,5,0.08563372547,0
+2025-05-01,07,Transport,-20.81133217,0,Random Forest,5,0.7149726482,1
+2025-05-01,08,Information and Communication,0,0,Random Forest,5,0.05527131465,0
+2025-05-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,5,0.06148222514,0
+2025-05-01,10,Education Services,0,0,Random Forest,5,0.03946694977,0
+2025-05-01,11,Resturants and Accomodation Services,0,0,Random Forest,5,0.03871334588,0
+2025-05-01,12,Insurance and Financial Services,-0.550186821,0,Random Forest,5,0.1278647485,0
+2025-05-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",7.050209979,1,Random Forest,5,0.7189721976,1
+2025-06-01,01,Food and Non-Alcoholic Beverages,91.13649179,1,Random Forest,5,0.8100974317,1
+2025-06-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-65.95014339,0,Random Forest,5,0.7886743948,1
+2025-06-01,03,Clothing and Footwear,0,0,Random Forest,5,0.2035944002,0
+2025-06-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-0.4720682098,0,Random Forest,5,0.7870296596,1
+2025-06-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",0,0,Random Forest,5,0.6546239037,1
+2025-06-01,06,Health,0,0,Random Forest,5,0.09915208722,0
+2025-06-01,07,Transport,41.07879566,1,Random Forest,5,0.6400895376,1
+2025-06-01,08,Information and Communication,0.4349320315,0,Random Forest,5,0.06956661875,0
+2025-06-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,5,0.07664768745,0
+2025-06-01,10,Education Services,0,0,Random Forest,5,0.05376225388,0
+2025-06-01,11,Resturants and Accomodation Services,0,0,Random Forest,5,0.05300864999,0
+2025-06-01,12,Insurance and Financial Services,-0.3182850236,0,Random Forest,5,0.09769901398,0
+2025-06-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.713476785,1,Random Forest,5,0.8182180616,1
+2025-07-01,01,Food and Non-Alcoholic Beverages,5.768769994,1,Random Forest,5,0.7843104166,1
+2025-07-01,02,"Alcholoic Beverages, Tobacco and Narcotics",12.97445539,1,Random Forest,5,0.6469207878,1
+2025-07-01,03,Clothing and Footwear,0,0,Random Forest,5,0.109750155,0
+2025-07-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.1779708939,0,Random Forest,5,0.6028089197,1
+2025-07-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-2.106913641,0,Random Forest,5,0.4756087782,0
+2025-07-01,06,Health,0,0,Random Forest,5,0.08805141947,0
+2025-07-01,07,Transport,11.18334735,1,Random Forest,5,0.6972098203,1
+2025-07-01,08,Information and Communication,0,0,Random Forest,5,0.08619431132,0
+2025-07-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,5,0.04273989241,0
+2025-07-01,10,Education Services,0,0,Random Forest,5,0.04221113567,0
+2025-07-01,11,Resturants and Accomodation Services,0,0,Random Forest,5,0.04190798223,0
+2025-07-01,12,Insurance and Financial Services,-0.6143993117,0,Random Forest,5,0.08979705174,0
+2025-07-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",14.44162706,1,Random Forest,5,0.7789834282,1
+2025-08-01,01,Food and Non-Alcoholic Beverages,-33.57579974,0,Random Forest,5,0.7606956821,1
+2025-08-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-14.80433993,0,Random Forest,5,0.7010761412,1
+2025-08-01,03,Clothing and Footwear,0,0,Random Forest,5,0.1071697869,0
+2025-08-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.2489650617,0,Random Forest,5,0.5755403223,1
+2025-08-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-4.335432736,0,Random Forest,5,0.4273436534,0
+2025-08-01,06,Health,0,0,Random Forest,5,0.08445230307,0
+2025-08-01,07,Transport,20.03027605,1,Random Forest,5,0.7878199943,1
+2025-08-01,08,Information and Communication,0,0,Random Forest,5,0.1042382734,0
+2025-08-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,5,0.03914077601,0
+2025-08-01,10,Education Services,0,0,Random Forest,5,0.03922930323,0
+2025-08-01,11,Resturants and Accomodation Services,0,0,Random Forest,5,0.03891394282,0
+2025-08-01,12,Insurance and Financial Services,-0.320089447,0,Random Forest,5,0.07447746489,0
+2025-08-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.778493139,1,Random Forest,5,0.8413339879,1
+2025-09-01,01,Food and Non-Alcoholic Beverages,-15.53621426,0,Random Forest,5,0.5390158824,1
+2025-09-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-64.93696868,0,Random Forest,5,0.6476166949,1
+2025-09-01,03,Clothing and Footwear,0,0,Random Forest,5,0.05811146733,0
+2025-09-01,04,"Housing, Water, Electricity, Gas and Other Fuels",27.26431351,1,Random Forest,5,0.4065131104,0
+2025-09-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",20.29934675,1,Random Forest,5,0.4320650104,0
+2025-09-01,06,Health,0,0,Random Forest,5,0.07891935384,0
+2025-09-01,07,Transport,-6.473533872,0,Random Forest,5,0.7532962846,1
+2025-09-01,08,Information and Communication,0.2080374224,0,Random Forest,5,0.06789274649,0
+2025-09-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,5,0.03810195397,0
+2025-09-01,10,Education Services,0,0,Random Forest,5,0.03750775027,0
+2025-09-01,11,Resturants and Accomodation Services,0,0,Random Forest,5,0.03515189142,0
+2025-09-01,12,Insurance and Financial Services,0.1405459785,0,Random Forest,5,0.0853232652,0
+2025-09-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-18.88576501,0,Random Forest,5,0.8315145418,1
+2025-10-01,01,Food and Non-Alcoholic Beverages,-30.34260931,0,Random Forest,5,0.6127106899,1
+2025-10-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-49.91871844,0,Random Forest,5,0.5774343039,1
+2025-10-01,03,Clothing and Footwear,-7.64180752,0,Random Forest,5,0.07200658639,0
+2025-10-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-78.61101116,0,Random Forest,5,0.741973375,1
+2025-10-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-20.31012074,0,Random Forest,5,0.789392709,1
+2025-10-01,06,Health,0,0,Random Forest,5,0.09330773116,0
+2025-10-01,07,Transport,-20.04685482,0,Random Forest,5,0.6278419452,1
+2025-10-01,08,Information and Communication,0,0,Random Forest,5,0.08783748129,0
+2025-10-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,5,0.04795943939,0
+2025-10-01,10,Education Services,0,0,Random Forest,5,0.04867296661,0
+2025-10-01,11,Resturants and Accomodation Services,0,0,Random Forest,5,0.04863083025,0
+2025-10-01,12,Insurance and Financial Services,-0.2475672801,0,Random Forest,5,0.09240345536,0
+2025-10-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-24.89548125,0,Random Forest,5,0.5577826176,1
+2025-11-01,01,Food and Non-Alcoholic Beverages,-55.23510808,0,Random Forest,5,0.7004986302,1
+2025-11-01,02,"Alcholoic Beverages, Tobacco and Narcotics",11.05807049,1,Random Forest,5,0.5911710707,1
+2025-11-01,03,Clothing and Footwear,-15.96097173,0,Random Forest,5,0.3852352483,0
+2025-11-01,04,"Housing, Water, Electricity, Gas and Other Fuels",2.526403938,0,Random Forest,5,0.5491531223,1
+2025-11-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-19.86288119,0,Random Forest,5,0.5599119369,1
+2025-11-01,06,Health,0,0,Random Forest,5,0.1228455952,0
+2025-11-01,07,Transport,-28.34042856,0,Random Forest,5,0.5363169231,1
+2025-11-01,08,Information and Communication,0,0,Random Forest,5,0.1164146401,0
+2025-11-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,5,0.07812230341,0
+2025-11-01,10,Education Services,0,0,Random Forest,5,0.07821854667,0
+2025-11-01,11,Resturants and Accomodation Services,0,0,Random Forest,5,0.07729724823,0
+2025-11-01,12,Insurance and Financial Services,-0.1019218001,0,Random Forest,5,0.1189233896,0
+2025-11-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-4.604365303,0,Random Forest,5,0.5683826084,1
+2025-12-01,01,Food and Non-Alcoholic Beverages,-21.0677955,0,Random Forest,5,0.6080353589,1
+2025-12-01,02,"Alcholoic Beverages, Tobacco and Narcotics",28.03696231,1,Random Forest,5,0.6766029121,1
+2025-12-01,03,Clothing and Footwear,15.25497474,1,Random Forest,5,0.5673952323,1
+2025-12-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-4.973916215,0,Random Forest,5,0.5464875835,1
+2025-12-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-5.692729687,0,Random Forest,5,0.5142828264,1
+2025-12-01,06,Health,0,0,Random Forest,5,0.1135714363,0
+2025-12-01,07,Transport,-38.47549494,0,Random Forest,5,0.6678775573,1
+2025-12-01,08,Information and Communication,0,0,Random Forest,5,0.1084164354,0
+2025-12-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,5,0.06884814448,0
+2025-12-01,10,Education Services,0,0,Random Forest,5,0.0693948382,0
+2025-12-01,11,Resturants and Accomodation Services,3.646167423,0,Random Forest,5,0.06802308931,0
+2025-12-01,12,Insurance and Financial Services,-0.1905749826,0,Random Forest,5,0.07962566954,0
+2025-12-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-1.480742342,0,Random Forest,5,0.5884452226,1
+2026-01-01,01,Food and Non-Alcoholic Beverages,-5.986423122,0,Random Forest,5,0.6114530985,1
+2026-01-01,02,"Alcholoic Beverages, Tobacco and Narcotics",26.04471324,1,Random Forest,5,0.6827889703,1
+2026-01-01,03,Clothing and Footwear,12.88696575,1,Random Forest,5,0.6767662175,1
+2026-01-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-1.100689656,0,Random Forest,5,0.4917448096,0
+2026-01-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.6384709768,0,Random Forest,5,0.5829713085,1
+2026-01-01,06,Health,0,0,Random Forest,5,0.114657377,0
+2026-01-01,07,Transport,-3.103486878,0,Random Forest,5,0.6049810577,1
+2026-01-01,08,Information and Communication,0,0,Random Forest,5,0.0891440558,0
+2026-01-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,5,0.06915714292,0
+2026-01-01,10,Education Services,0,0,Random Forest,5,0.06970383664,0
+2026-01-01,11,Resturants and Accomodation Services,-0.8575502774,0,Random Forest,5,0.4083685936,0
+2026-01-01,12,Insurance and Financial Services,-0.3424349794,0,Random Forest,5,0.09772437051,0
+2026-01-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",3.832972616,0,Random Forest,5,0.5935799907,1
+2026-02-01,01,Food and Non-Alcoholic Beverages,-5.435105199,0,Random Forest,5,0.5889317754,1
+2026-02-01,02,"Alcholoic Beverages, Tobacco and Narcotics",282.77494,1,Random Forest,5,0.7660533929,1
+2026-02-01,03,Clothing and Footwear,3.152366104,0,Random Forest,5,0.7508235584,1
+2026-02-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-14.09411416,0,Random Forest,5,0.4204226209,0
+2026-02-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.606720969,0,Random Forest,5,0.5916016297,1
+2026-02-01,06,Health,0,0,Random Forest,5,0.09177530067,0
+2026-02-01,07,Transport,-8.194061751,0,Random Forest,5,0.5831173846,1
+2026-02-01,08,Information and Communication,0,0,Random Forest,5,0.05847367976,0
+2026-02-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,5,0.04565006655,0
+2026-02-01,10,Education Services,0,0,Random Forest,5,0.04619676026,0
+2026-02-01,11,Resturants and Accomodation Services,0,0,Random Forest,5,0.2596628034,0
+2026-02-01,12,Insurance and Financial Services,-0.1596645015,0,Random Forest,5,0.06191496385,0
+2026-02-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.486228689,0,Random Forest,5,0.5629391372,1
+2025-03-01,01,Food and Non-Alcoholic Beverages,42.97477065,1,No spike,10,0,0
+2025-03-01,02,"Alcholoic Beverages, Tobacco and Narcotics",77.78101061,1,No spike,10,0,0
+2025-03-01,03,Clothing and Footwear,-0.1146437264,0,No spike,10,0,0
+2025-03-01,04,"Housing, Water, Electricity, Gas and Other Fuels",207.4899283,1,No spike,10,0,0
+2025-03-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",4.062145293,0,No spike,10,0,0
+2025-03-01,06,Health,0,0,No spike,10,0,0
+2025-03-01,07,Transport,-16.84801965,0,No spike,10,0,0
+2025-03-01,08,Information and Communication,0,0,No spike,10,0,0
+2025-03-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,10,0,0
+2025-03-01,10,Education Services,0,0,No spike,10,0,0
+2025-03-01,11,Resturants and Accomodation Services,0,0,No spike,10,0,0
+2025-03-01,12,Insurance and Financial Services,0.3366684021,0,No spike,10,0,0
+2025-03-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.423687254,0,No spike,10,0,0
+2025-04-01,01,Food and Non-Alcoholic Beverages,60.38889677,1,No spike,10,0,0
+2025-04-01,02,"Alcholoic Beverages, Tobacco and Narcotics",143.2605696,1,No spike,10,0,0
+2025-04-01,03,Clothing and Footwear,0.09368695993,0,No spike,10,0,0
+2025-04-01,04,"Housing, Water, Electricity, Gas and Other Fuels",110.823997,1,No spike,10,0,0
+2025-04-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",36.45339319,1,No spike,10,0,0
+2025-04-01,06,Health,0,0,No spike,10,0,0
+2025-04-01,07,Transport,54.1137936,1,No spike,10,0,0
+2025-04-01,08,Information and Communication,0,0,No spike,10,0,0
+2025-04-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,10,0,0
+2025-04-01,10,Education Services,0,0,No spike,10,0,0
+2025-04-01,11,Resturants and Accomodation Services,0,0,No spike,10,0,0
+2025-04-01,12,Insurance and Financial Services,0.2019427172,0,No spike,10,0,0
+2025-04-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",25.56268603,1,No spike,10,0,0
+2025-05-01,01,Food and Non-Alcoholic Beverages,48.53550618,1,No spike,10,0,0
+2025-05-01,02,"Alcholoic Beverages, Tobacco and Narcotics",96.131111,1,No spike,10,0,0
+2025-05-01,03,Clothing and Footwear,0.1495926846,0,No spike,10,0,0
+2025-05-01,04,"Housing, Water, Electricity, Gas and Other Fuels",8.536733283,0,No spike,10,0,0
+2025-05-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.7962139351,0,No spike,10,0,0
+2025-05-01,06,Health,0,0,No spike,10,0,0
+2025-05-01,07,Transport,-20.81133217,0,No spike,10,0,0
+2025-05-01,08,Information and Communication,0,0,No spike,10,0,0
+2025-05-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,10,0,0
+2025-05-01,10,Education Services,0,0,No spike,10,0,0
+2025-05-01,11,Resturants and Accomodation Services,0,0,No spike,10,0,0
+2025-05-01,12,Insurance and Financial Services,-0.550186821,0,No spike,10,0,0
+2025-05-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",7.050209979,0,No spike,10,0,0
+2025-06-01,01,Food and Non-Alcoholic Beverages,91.13649179,1,No spike,10,0,0
+2025-06-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-65.95014339,0,No spike,10,0,0
+2025-06-01,03,Clothing and Footwear,0,0,No spike,10,0,0
+2025-06-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-0.4720682098,0,No spike,10,0,0
+2025-06-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",0,0,No spike,10,0,0
+2025-06-01,06,Health,0,0,No spike,10,0,0
+2025-06-01,07,Transport,41.07879566,1,No spike,10,0,0
+2025-06-01,08,Information and Communication,0.4349320315,0,No spike,10,0,0
+2025-06-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,10,0,0
+2025-06-01,10,Education Services,0,0,No spike,10,0,0
+2025-06-01,11,Resturants and Accomodation Services,0,0,No spike,10,0,0
+2025-06-01,12,Insurance and Financial Services,-0.3182850236,0,No spike,10,0,0
+2025-06-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.713476785,0,No spike,10,0,0
+2025-07-01,01,Food and Non-Alcoholic Beverages,5.768769994,0,No spike,10,0,0
+2025-07-01,02,"Alcholoic Beverages, Tobacco and Narcotics",12.97445539,1,No spike,10,0,0
+2025-07-01,03,Clothing and Footwear,0,0,No spike,10,0,0
+2025-07-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.1779708939,0,No spike,10,0,0
+2025-07-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-2.106913641,0,No spike,10,0,0
+2025-07-01,06,Health,0,0,No spike,10,0,0
+2025-07-01,07,Transport,11.18334735,1,No spike,10,0,0
+2025-07-01,08,Information and Communication,0,0,No spike,10,0,0
+2025-07-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,10,0,0
+2025-07-01,10,Education Services,0,0,No spike,10,0,0
+2025-07-01,11,Resturants and Accomodation Services,0,0,No spike,10,0,0
+2025-07-01,12,Insurance and Financial Services,-0.6143993117,0,No spike,10,0,0
+2025-07-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",14.44162706,1,No spike,10,0,0
+2025-08-01,01,Food and Non-Alcoholic Beverages,-33.57579974,0,No spike,10,0,0
+2025-08-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-14.80433993,0,No spike,10,0,0
+2025-08-01,03,Clothing and Footwear,0,0,No spike,10,0,0
+2025-08-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.2489650617,0,No spike,10,0,0
+2025-08-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-4.335432736,0,No spike,10,0,0
+2025-08-01,06,Health,0,0,No spike,10,0,0
+2025-08-01,07,Transport,20.03027605,1,No spike,10,0,0
+2025-08-01,08,Information and Communication,0,0,No spike,10,0,0
+2025-08-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,10,0,0
+2025-08-01,10,Education Services,0,0,No spike,10,0,0
+2025-08-01,11,Resturants and Accomodation Services,0,0,No spike,10,0,0
+2025-08-01,12,Insurance and Financial Services,-0.320089447,0,No spike,10,0,0
+2025-08-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.778493139,0,No spike,10,0,0
+2025-09-01,01,Food and Non-Alcoholic Beverages,-15.53621426,0,No spike,10,0,0
+2025-09-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-64.93696868,0,No spike,10,0,0
+2025-09-01,03,Clothing and Footwear,0,0,No spike,10,0,0
+2025-09-01,04,"Housing, Water, Electricity, Gas and Other Fuels",27.26431351,1,No spike,10,0,0
+2025-09-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",20.29934675,1,No spike,10,0,0
+2025-09-01,06,Health,0,0,No spike,10,0,0
+2025-09-01,07,Transport,-6.473533872,0,No spike,10,0,0
+2025-09-01,08,Information and Communication,0.2080374224,0,No spike,10,0,0
+2025-09-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,10,0,0
+2025-09-01,10,Education Services,0,0,No spike,10,0,0
+2025-09-01,11,Resturants and Accomodation Services,0,0,No spike,10,0,0
+2025-09-01,12,Insurance and Financial Services,0.1405459785,0,No spike,10,0,0
+2025-09-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-18.88576501,0,No spike,10,0,0
+2025-10-01,01,Food and Non-Alcoholic Beverages,-30.34260931,0,No spike,10,0,0
+2025-10-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-49.91871844,0,No spike,10,0,0
+2025-10-01,03,Clothing and Footwear,-7.64180752,0,No spike,10,0,0
+2025-10-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-78.61101116,0,No spike,10,0,0
+2025-10-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-20.31012074,0,No spike,10,0,0
+2025-10-01,06,Health,0,0,No spike,10,0,0
+2025-10-01,07,Transport,-20.04685482,0,No spike,10,0,0
+2025-10-01,08,Information and Communication,0,0,No spike,10,0,0
+2025-10-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,10,0,0
+2025-10-01,10,Education Services,0,0,No spike,10,0,0
+2025-10-01,11,Resturants and Accomodation Services,0,0,No spike,10,0,0
+2025-10-01,12,Insurance and Financial Services,-0.2475672801,0,No spike,10,0,0
+2025-10-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-24.89548125,0,No spike,10,0,0
+2025-11-01,01,Food and Non-Alcoholic Beverages,-55.23510808,0,No spike,10,0,0
+2025-11-01,02,"Alcholoic Beverages, Tobacco and Narcotics",11.05807049,1,No spike,10,0,0
+2025-11-01,03,Clothing and Footwear,-15.96097173,0,No spike,10,0,0
+2025-11-01,04,"Housing, Water, Electricity, Gas and Other Fuels",2.526403938,0,No spike,10,0,0
+2025-11-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-19.86288119,0,No spike,10,0,0
+2025-11-01,06,Health,0,0,No spike,10,0,0
+2025-11-01,07,Transport,-28.34042856,0,No spike,10,0,0
+2025-11-01,08,Information and Communication,0,0,No spike,10,0,0
+2025-11-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,10,0,0
+2025-11-01,10,Education Services,0,0,No spike,10,0,0
+2025-11-01,11,Resturants and Accomodation Services,0,0,No spike,10,0,0
+2025-11-01,12,Insurance and Financial Services,-0.1019218001,0,No spike,10,0,0
+2025-11-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-4.604365303,0,No spike,10,0,0
+2025-12-01,01,Food and Non-Alcoholic Beverages,-21.0677955,0,No spike,10,0,0
+2025-12-01,02,"Alcholoic Beverages, Tobacco and Narcotics",28.03696231,1,No spike,10,0,0
+2025-12-01,03,Clothing and Footwear,15.25497474,1,No spike,10,0,0
+2025-12-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-4.973916215,0,No spike,10,0,0
+2025-12-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-5.692729687,0,No spike,10,0,0
+2025-12-01,06,Health,0,0,No spike,10,0,0
+2025-12-01,07,Transport,-38.47549494,0,No spike,10,0,0
+2025-12-01,08,Information and Communication,0,0,No spike,10,0,0
+2025-12-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,10,0,0
+2025-12-01,10,Education Services,0,0,No spike,10,0,0
+2025-12-01,11,Resturants and Accomodation Services,3.646167423,0,No spike,10,0,0
+2025-12-01,12,Insurance and Financial Services,-0.1905749826,0,No spike,10,0,0
+2025-12-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-1.480742342,0,No spike,10,0,0
+2026-01-01,01,Food and Non-Alcoholic Beverages,-5.986423122,0,No spike,10,0,0
+2026-01-01,02,"Alcholoic Beverages, Tobacco and Narcotics",26.04471324,1,No spike,10,0,0
+2026-01-01,03,Clothing and Footwear,12.88696575,1,No spike,10,0,0
+2026-01-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-1.100689656,0,No spike,10,0,0
+2026-01-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.6384709768,0,No spike,10,0,0
+2026-01-01,06,Health,0,0,No spike,10,0,0
+2026-01-01,07,Transport,-3.103486878,0,No spike,10,0,0
+2026-01-01,08,Information and Communication,0,0,No spike,10,0,0
+2026-01-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,10,0,0
+2026-01-01,10,Education Services,0,0,No spike,10,0,0
+2026-01-01,11,Resturants and Accomodation Services,-0.8575502774,0,No spike,10,0,0
+2026-01-01,12,Insurance and Financial Services,-0.3424349794,0,No spike,10,0,0
+2026-01-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",3.832972616,0,No spike,10,0,0
+2026-02-01,01,Food and Non-Alcoholic Beverages,-5.435105199,0,No spike,10,0,0
+2026-02-01,02,"Alcholoic Beverages, Tobacco and Narcotics",282.77494,1,No spike,10,0,0
+2026-02-01,03,Clothing and Footwear,3.152366104,0,No spike,10,0,0
+2026-02-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-14.09411416,0,No spike,10,0,0
+2026-02-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.606720969,0,No spike,10,0,0
+2026-02-01,06,Health,0,0,No spike,10,0,0
+2026-02-01,07,Transport,-8.194061751,0,No spike,10,0,0
+2026-02-01,08,Information and Communication,0,0,No spike,10,0,0
+2026-02-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,10,0,0
+2026-02-01,10,Education Services,0,0,No spike,10,0,0
+2026-02-01,11,Resturants and Accomodation Services,0,0,No spike,10,0,0
+2026-02-01,12,Insurance and Financial Services,-0.1596645015,0,No spike,10,0,0
+2026-02-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.486228689,0,No spike,10,0,0
+2025-03-01,01,Food and Non-Alcoholic Beverages,42.97477065,1,Persistence,10,0,0
+2025-03-01,02,"Alcholoic Beverages, Tobacco and Narcotics",77.78101061,1,Persistence,10,0,0
+2025-03-01,03,Clothing and Footwear,-0.1146437264,0,Persistence,10,0,0
+2025-03-01,04,"Housing, Water, Electricity, Gas and Other Fuels",207.4899283,1,Persistence,10,0,0
+2025-03-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",4.062145293,0,Persistence,10,0,0
+2025-03-01,06,Health,0,0,Persistence,10,0,0
+2025-03-01,07,Transport,-16.84801965,0,Persistence,10,1,1
+2025-03-01,08,Information and Communication,0,0,Persistence,10,0,0
+2025-03-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,10,0,0
+2025-03-01,10,Education Services,0,0,Persistence,10,0,0
+2025-03-01,11,Resturants and Accomodation Services,0,0,Persistence,10,0,0
+2025-03-01,12,Insurance and Financial Services,0.3366684021,0,Persistence,10,0,0
+2025-03-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.423687254,0,Persistence,10,0,0
+2025-04-01,01,Food and Non-Alcoholic Beverages,60.38889677,1,Persistence,10,1,1
+2025-04-01,02,"Alcholoic Beverages, Tobacco and Narcotics",143.2605696,1,Persistence,10,1,1
+2025-04-01,03,Clothing and Footwear,0.09368695993,0,Persistence,10,0,0
+2025-04-01,04,"Housing, Water, Electricity, Gas and Other Fuels",110.823997,1,Persistence,10,1,1
+2025-04-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",36.45339319,1,Persistence,10,0,0
+2025-04-01,06,Health,0,0,Persistence,10,0,0
+2025-04-01,07,Transport,54.1137936,1,Persistence,10,0,0
+2025-04-01,08,Information and Communication,0,0,Persistence,10,0,0
+2025-04-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,10,0,0
+2025-04-01,10,Education Services,0,0,Persistence,10,0,0
+2025-04-01,11,Resturants and Accomodation Services,0,0,Persistence,10,0,0
+2025-04-01,12,Insurance and Financial Services,0.2019427172,0,Persistence,10,0,0
+2025-04-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",25.56268603,1,Persistence,10,0,0
+2025-05-01,01,Food and Non-Alcoholic Beverages,48.53550618,1,Persistence,10,1,1
+2025-05-01,02,"Alcholoic Beverages, Tobacco and Narcotics",96.131111,1,Persistence,10,1,1
+2025-05-01,03,Clothing and Footwear,0.1495926846,0,Persistence,10,0,0
+2025-05-01,04,"Housing, Water, Electricity, Gas and Other Fuels",8.536733283,0,Persistence,10,1,1
+2025-05-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.7962139351,0,Persistence,10,1,1
+2025-05-01,06,Health,0,0,Persistence,10,0,0
+2025-05-01,07,Transport,-20.81133217,0,Persistence,10,1,1
+2025-05-01,08,Information and Communication,0,0,Persistence,10,0,0
+2025-05-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,10,0,0
+2025-05-01,10,Education Services,0,0,Persistence,10,0,0
+2025-05-01,11,Resturants and Accomodation Services,0,0,Persistence,10,0,0
+2025-05-01,12,Insurance and Financial Services,-0.550186821,0,Persistence,10,0,0
+2025-05-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",7.050209979,0,Persistence,10,1,1
+2025-06-01,01,Food and Non-Alcoholic Beverages,91.13649179,1,Persistence,10,1,1
+2025-06-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-65.95014339,0,Persistence,10,1,1
+2025-06-01,03,Clothing and Footwear,0,0,Persistence,10,0,0
+2025-06-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-0.4720682098,0,Persistence,10,0,0
+2025-06-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",0,0,Persistence,10,0,0
+2025-06-01,06,Health,0,0,Persistence,10,0,0
+2025-06-01,07,Transport,41.07879566,1,Persistence,10,0,0
+2025-06-01,08,Information and Communication,0.4349320315,0,Persistence,10,0,0
+2025-06-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,10,0,0
+2025-06-01,10,Education Services,0,0,Persistence,10,0,0
+2025-06-01,11,Resturants and Accomodation Services,0,0,Persistence,10,0,0
+2025-06-01,12,Insurance and Financial Services,-0.3182850236,0,Persistence,10,0,0
+2025-06-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.713476785,0,Persistence,10,0,0
+2025-07-01,01,Food and Non-Alcoholic Beverages,5.768769994,0,Persistence,10,1,1
+2025-07-01,02,"Alcholoic Beverages, Tobacco and Narcotics",12.97445539,1,Persistence,10,0,0
+2025-07-01,03,Clothing and Footwear,0,0,Persistence,10,0,0
+2025-07-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.1779708939,0,Persistence,10,0,0
+2025-07-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-2.106913641,0,Persistence,10,0,0
+2025-07-01,06,Health,0,0,Persistence,10,0,0
+2025-07-01,07,Transport,11.18334735,1,Persistence,10,1,1
+2025-07-01,08,Information and Communication,0,0,Persistence,10,0,0
+2025-07-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,10,0,0
+2025-07-01,10,Education Services,0,0,Persistence,10,0,0
+2025-07-01,11,Resturants and Accomodation Services,0,0,Persistence,10,0,0
+2025-07-01,12,Insurance and Financial Services,-0.6143993117,0,Persistence,10,0,0
+2025-07-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",14.44162706,1,Persistence,10,0,0
+2025-08-01,01,Food and Non-Alcoholic Beverages,-33.57579974,0,Persistence,10,0,0
+2025-08-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-14.80433993,0,Persistence,10,1,1
+2025-08-01,03,Clothing and Footwear,0,0,Persistence,10,0,0
+2025-08-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.2489650617,0,Persistence,10,0,0
+2025-08-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-4.335432736,0,Persistence,10,0,0
+2025-08-01,06,Health,0,0,Persistence,10,0,0
+2025-08-01,07,Transport,20.03027605,1,Persistence,10,1,1
+2025-08-01,08,Information and Communication,0,0,Persistence,10,0,0
+2025-08-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,10,0,0
+2025-08-01,10,Education Services,0,0,Persistence,10,0,0
+2025-08-01,11,Resturants and Accomodation Services,0,0,Persistence,10,0,0
+2025-08-01,12,Insurance and Financial Services,-0.320089447,0,Persistence,10,0,0
+2025-08-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.778493139,0,Persistence,10,1,1
+2025-09-01,01,Food and Non-Alcoholic Beverages,-15.53621426,0,Persistence,10,0,0
+2025-09-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-64.93696868,0,Persistence,10,0,0
+2025-09-01,03,Clothing and Footwear,0,0,Persistence,10,0,0
+2025-09-01,04,"Housing, Water, Electricity, Gas and Other Fuels",27.26431351,1,Persistence,10,0,0
+2025-09-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",20.29934675,1,Persistence,10,0,0
+2025-09-01,06,Health,0,0,Persistence,10,0,0
+2025-09-01,07,Transport,-6.473533872,0,Persistence,10,1,1
+2025-09-01,08,Information and Communication,0.2080374224,0,Persistence,10,0,0
+2025-09-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,10,0,0
+2025-09-01,10,Education Services,0,0,Persistence,10,0,0
+2025-09-01,11,Resturants and Accomodation Services,0,0,Persistence,10,0,0
+2025-09-01,12,Insurance and Financial Services,0.1405459785,0,Persistence,10,0,0
+2025-09-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-18.88576501,0,Persistence,10,0,0
+2025-10-01,01,Food and Non-Alcoholic Beverages,-30.34260931,0,Persistence,10,0,0
+2025-10-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-49.91871844,0,Persistence,10,0,0
+2025-10-01,03,Clothing and Footwear,-7.64180752,0,Persistence,10,0,0
+2025-10-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-78.61101116,0,Persistence,10,1,1
+2025-10-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-20.31012074,0,Persistence,10,1,1
+2025-10-01,06,Health,0,0,Persistence,10,0,0
+2025-10-01,07,Transport,-20.04685482,0,Persistence,10,0,0
+2025-10-01,08,Information and Communication,0,0,Persistence,10,0,0
+2025-10-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,10,0,0
+2025-10-01,10,Education Services,0,0,Persistence,10,0,0
+2025-10-01,11,Resturants and Accomodation Services,0,0,Persistence,10,0,0
+2025-10-01,12,Insurance and Financial Services,-0.2475672801,0,Persistence,10,0,0
+2025-10-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-24.89548125,0,Persistence,10,0,0
+2025-11-01,01,Food and Non-Alcoholic Beverages,-55.23510808,0,Persistence,10,0,0
+2025-11-01,02,"Alcholoic Beverages, Tobacco and Narcotics",11.05807049,1,Persistence,10,0,0
+2025-11-01,03,Clothing and Footwear,-15.96097173,0,Persistence,10,0,0
+2025-11-01,04,"Housing, Water, Electricity, Gas and Other Fuels",2.526403938,0,Persistence,10,0,0
+2025-11-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-19.86288119,0,Persistence,10,0,0
+2025-11-01,06,Health,0,0,Persistence,10,0,0
+2025-11-01,07,Transport,-28.34042856,0,Persistence,10,0,0
+2025-11-01,08,Information and Communication,0,0,Persistence,10,0,0
+2025-11-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,10,0,0
+2025-11-01,10,Education Services,0,0,Persistence,10,0,0
+2025-11-01,11,Resturants and Accomodation Services,0,0,Persistence,10,0,0
+2025-11-01,12,Insurance and Financial Services,-0.1019218001,0,Persistence,10,0,0
+2025-11-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-4.604365303,0,Persistence,10,0,0
+2025-12-01,01,Food and Non-Alcoholic Beverages,-21.0677955,0,Persistence,10,0,0
+2025-12-01,02,"Alcholoic Beverages, Tobacco and Narcotics",28.03696231,1,Persistence,10,1,1
+2025-12-01,03,Clothing and Footwear,15.25497474,1,Persistence,10,0,0
+2025-12-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-4.973916215,0,Persistence,10,0,0
+2025-12-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-5.692729687,0,Persistence,10,0,0
+2025-12-01,06,Health,0,0,Persistence,10,0,0
+2025-12-01,07,Transport,-38.47549494,0,Persistence,10,0,0
+2025-12-01,08,Information and Communication,0,0,Persistence,10,0,0
+2025-12-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,10,0,0
+2025-12-01,10,Education Services,0,0,Persistence,10,0,0
+2025-12-01,11,Resturants and Accomodation Services,3.646167423,0,Persistence,10,0,0
+2025-12-01,12,Insurance and Financial Services,-0.1905749826,0,Persistence,10,0,0
+2025-12-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-1.480742342,0,Persistence,10,0,0
+2026-01-01,01,Food and Non-Alcoholic Beverages,-5.986423122,0,Persistence,10,0,0
+2026-01-01,02,"Alcholoic Beverages, Tobacco and Narcotics",26.04471324,1,Persistence,10,1,1
+2026-01-01,03,Clothing and Footwear,12.88696575,1,Persistence,10,1,1
+2026-01-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-1.100689656,0,Persistence,10,0,0
+2026-01-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.6384709768,0,Persistence,10,0,0
+2026-01-01,06,Health,0,0,Persistence,10,0,0
+2026-01-01,07,Transport,-3.103486878,0,Persistence,10,0,0
+2026-01-01,08,Information and Communication,0,0,Persistence,10,0,0
+2026-01-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,10,0,0
+2026-01-01,10,Education Services,0,0,Persistence,10,0,0
+2026-01-01,11,Resturants and Accomodation Services,-0.8575502774,0,Persistence,10,0,0
+2026-01-01,12,Insurance and Financial Services,-0.3424349794,0,Persistence,10,0,0
+2026-01-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",3.832972616,0,Persistence,10,0,0
+2026-02-01,01,Food and Non-Alcoholic Beverages,-5.435105199,0,Persistence,10,0,0
+2026-02-01,02,"Alcholoic Beverages, Tobacco and Narcotics",282.77494,1,Persistence,10,1,1
+2026-02-01,03,Clothing and Footwear,3.152366104,0,Persistence,10,1,1
+2026-02-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-14.09411416,0,Persistence,10,0,0
+2026-02-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.606720969,0,Persistence,10,0,0
+2026-02-01,06,Health,0,0,Persistence,10,0,0
+2026-02-01,07,Transport,-8.194061751,0,Persistence,10,0,0
+2026-02-01,08,Information and Communication,0,0,Persistence,10,0,0
+2026-02-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,10,0,0
+2026-02-01,10,Education Services,0,0,Persistence,10,0,0
+2026-02-01,11,Resturants and Accomodation Services,0,0,Persistence,10,0,0
+2026-02-01,12,Insurance and Financial Services,-0.1596645015,0,Persistence,10,0,0
+2026-02-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.486228689,0,Persistence,10,0,0
+2025-03-01,01,Food and Non-Alcoholic Beverages,42.97477065,1,Logistic Regression,10,0.7124778641,1
+2025-03-01,02,"Alcholoic Beverages, Tobacco and Narcotics",77.78101061,1,Logistic Regression,10,0.6870983871,1
+2025-03-01,03,Clothing and Footwear,-0.1146437264,0,Logistic Regression,10,0.3952283114,0
+2025-03-01,04,"Housing, Water, Electricity, Gas and Other Fuels",207.4899283,1,Logistic Regression,10,0.536117638,1
+2025-03-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",4.062145293,0,Logistic Regression,10,0.5838266831,1
+2025-03-01,06,Health,0,0,Logistic Regression,10,0.1009243751,0
+2025-03-01,07,Transport,-16.84801965,0,Logistic Regression,10,0.7460757769,1
+2025-03-01,08,Information and Communication,0,0,Logistic Regression,10,0.1011549131,0
+2025-03-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,10,0.1000919503,0
+2025-03-01,10,Education Services,0,0,Logistic Regression,10,0.09917147475,0
+2025-03-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,10,0.09889616896,0
+2025-03-01,12,Insurance and Financial Services,0.3366684021,0,Logistic Regression,10,0.09932181595,0
+2025-03-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.423687254,0,Logistic Regression,10,0.1016769932,0
+2025-04-01,01,Food and Non-Alcoholic Beverages,60.38889677,1,Logistic Regression,10,0.8783210145,1
+2025-04-01,02,"Alcholoic Beverages, Tobacco and Narcotics",143.2605696,1,Logistic Regression,10,0.9220338258,1
+2025-04-01,03,Clothing and Footwear,0.09368695993,0,Logistic Regression,10,0.4063156521,0
+2025-04-01,04,"Housing, Water, Electricity, Gas and Other Fuels",110.823997,1,Logistic Regression,10,0.9893215793,1
+2025-04-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",36.45339319,1,Logistic Regression,10,0.5853504327,1
+2025-04-01,06,Health,0,0,Logistic Regression,10,0.09371690347,0
+2025-04-01,07,Transport,54.1137936,1,Logistic Regression,10,0.6477069744,1
+2025-04-01,08,Information and Communication,0,0,Logistic Regression,10,0.09420896959,0
+2025-04-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,10,0.09187486357,0
+2025-04-01,10,Education Services,0,0,Logistic Regression,10,0.09121696297,0
+2025-04-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,10,0.09096150961,0
+2025-04-01,12,Insurance and Financial Services,0.2019427172,0,Logistic Regression,10,0.09227839621,0
+2025-04-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",25.56268603,1,Logistic Regression,10,0.09704638264,0
+2025-05-01,01,Food and Non-Alcoholic Beverages,48.53550618,1,Logistic Regression,10,0.9382344841,1
+2025-05-01,02,"Alcholoic Beverages, Tobacco and Narcotics",96.131111,1,Logistic Regression,10,0.984708987,1
+2025-05-01,03,Clothing and Footwear,0.1495926846,0,Logistic Regression,10,0.3912478022,0
+2025-05-01,04,"Housing, Water, Electricity, Gas and Other Fuels",8.536733283,0,Logistic Regression,10,0.9796542089,1
+2025-05-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.7962139351,0,Logistic Regression,10,0.7397338576,1
+2025-05-01,06,Health,0,0,Logistic Regression,10,0.08326113315,0
+2025-05-01,07,Transport,-20.81133217,0,Logistic Regression,10,0.8616058962,1
+2025-05-01,08,Information and Communication,0,0,Logistic Regression,10,0.08649872259,0
+2025-05-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,10,0.08433785786,0
+2025-05-01,10,Education Services,0,0,Logistic Regression,10,0.08372895237,0
+2025-05-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,10,0.08349254261,0
+2025-05-01,12,Insurance and Financial Services,-0.550186821,0,Logistic Regression,10,0.08469968496,0
+2025-05-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",7.050209979,0,Logistic Regression,10,0.1553558638,0
+2025-06-01,01,Food and Non-Alcoholic Beverages,91.13649179,1,Logistic Regression,10,0.9540848629,1
+2025-06-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-65.95014339,0,Logistic Regression,10,0.9893305953,1
+2025-06-01,03,Clothing and Footwear,0,0,Logistic Regression,10,0.2679541817,0
+2025-06-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-0.4720682098,0,Logistic Regression,10,0.9264287383,1
+2025-06-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",0,0,Logistic Regression,10,0.6239820988,1
+2025-06-01,06,Health,0,0,Logistic Regression,10,0.0780592086,0
+2025-06-01,07,Transport,41.07879566,1,Logistic Regression,10,0.6919785421,1
+2025-06-01,08,Information and Communication,0.4349320315,0,Logistic Regression,10,0.08111241964,0
+2025-06-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,10,0.07907446506,0
+2025-06-01,10,Education Services,0,0,Logistic Regression,10,0.07850030257,0
+2025-06-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,10,0.07827739475,0
+2025-06-01,12,Insurance and Financial Services,-0.3182850236,0,Logistic Regression,10,0.07884734272,0
+2025-06-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.713476785,0,Logistic Regression,10,0.1238147437,0
+2025-07-01,01,Food and Non-Alcoholic Beverages,5.768769994,0,Logistic Regression,10,0.9680640424,1
+2025-07-01,02,"Alcholoic Beverages, Tobacco and Narcotics",12.97445539,1,Logistic Regression,10,0.8741112087,1
+2025-07-01,03,Clothing and Footwear,0,0,Logistic Regression,10,0.2345475951,0
+2025-07-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.1779708939,0,Logistic Regression,10,0.8201226519,1
+2025-07-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-2.106913641,0,Logistic Regression,10,0.5950004309,1
+2025-07-01,06,Health,0,0,Logistic Regression,10,0.0760902723,0
+2025-07-01,07,Transport,11.18334735,1,Logistic Regression,10,0.8415101834,1
+2025-07-01,08,Information and Communication,0,0,Logistic Regression,10,0.07717496656,0
+2025-07-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,10,0.07581004546,0
+2025-07-01,10,Education Services,0,0,Logistic Regression,10,0.07652116373,0
+2025-07-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,10,0.07630341048,0
+2025-07-01,12,Insurance and Financial Services,-0.6143993117,0,Logistic Regression,10,0.07684298515,0
+2025-07-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",14.44162706,1,Logistic Regression,10,0.1149444276,0
+2025-08-01,01,Food and Non-Alcoholic Beverages,-33.57579974,0,Logistic Regression,10,0.7816474977,1
+2025-08-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-14.80433993,0,Logistic Regression,10,0.8138916361,1
+2025-08-01,03,Clothing and Footwear,0,0,Logistic Regression,10,0.2346126359,0
+2025-08-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.2489650617,0,Logistic Regression,10,0.7943491056,1
+2025-08-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-4.335432736,0,Logistic Regression,10,0.5596560467,1
+2025-08-01,06,Health,0,0,Logistic Regression,10,0.07766774248,0
+2025-08-01,07,Transport,20.03027605,1,Logistic Regression,10,0.7192538569,1
+2025-08-01,08,Information and Communication,0,0,Logistic Regression,10,0.07836948699,0
+2025-08-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,10,0.07738219269,0
+2025-08-01,10,Education Services,0,0,Logistic Regression,10,0.07810681177,0
+2025-08-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,10,0.07788492686,0
+2025-08-01,12,Insurance and Financial Services,-0.320089447,0,Logistic Regression,10,0.07839138269,0
+2025-08-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.778493139,0,Logistic Regression,10,0.1121439755,0
+2025-09-01,01,Food and Non-Alcoholic Beverages,-15.53621426,0,Logistic Regression,10,0.5122401475,1
+2025-09-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-64.93696868,0,Logistic Regression,10,0.6234973213,1
+2025-09-01,03,Clothing and Footwear,0,0,Logistic Regression,10,0.2282672142,0
+2025-09-01,04,"Housing, Water, Electricity, Gas and Other Fuels",27.26431351,1,Logistic Regression,10,0.6922215167,1
+2025-09-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",20.29934675,1,Logistic Regression,10,0.5414373376,1
+2025-09-01,06,Health,0,0,Logistic Regression,10,0.08254316428,0
+2025-09-01,07,Transport,-6.473533872,0,Logistic Regression,10,0.7932531166,1
+2025-09-01,08,Information and Communication,0.2080374224,0,Logistic Regression,10,0.08323428383,0
+2025-09-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,10,0.08224128802,0
+2025-09-01,10,Education Services,0,0,Logistic Regression,10,0.08300731471,0
+2025-09-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,10,0.08277275844,0
+2025-09-01,12,Insurance and Financial Services,0.1405459785,0,Logistic Regression,10,0.08369755681,0
+2025-09-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-18.88576501,0,Logistic Regression,10,0.09616951804,0
+2025-10-01,01,Food and Non-Alcoholic Beverages,-30.34260931,0,Logistic Regression,10,0.6562825328,1
+2025-10-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-49.91871844,0,Logistic Regression,10,0.7341255535,1
+2025-10-01,03,Clothing and Footwear,-7.64180752,0,Logistic Regression,10,0.244652466,0
+2025-10-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-78.61101116,0,Logistic Regression,10,0.7194002537,1
+2025-10-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-20.31012074,0,Logistic Regression,10,0.6382192915,1
+2025-10-01,06,Health,0,0,Logistic Regression,10,0.0898160386,0
+2025-10-01,07,Transport,-20.04685482,0,Logistic Regression,10,0.6776000902,1
+2025-10-01,08,Information and Communication,0,0,Logistic Regression,10,0.09069101333,0
+2025-10-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,10,0.08949015848,0
+2025-10-01,10,Education Services,0,0,Logistic Regression,10,0.09031705936,0
+2025-10-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,10,0.09006387643,0
+2025-10-01,12,Insurance and Financial Services,-0.2475672801,0,Logistic Regression,10,0.09167110259,0
+2025-10-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-24.89548125,0,Logistic Regression,10,0.08100683887,0
+2025-11-01,01,Food and Non-Alcoholic Beverages,-55.23510808,0,Logistic Regression,10,0.7442127607,1
+2025-11-01,02,"Alcholoic Beverages, Tobacco and Narcotics",11.05807049,1,Logistic Regression,10,0.8081989154,1
+2025-11-01,03,Clothing and Footwear,-15.96097173,0,Logistic Regression,10,0.2600201797,0
+2025-11-01,04,"Housing, Water, Electricity, Gas and Other Fuels",2.526403938,0,Logistic Regression,10,0.4818596155,0
+2025-11-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-19.86288119,0,Logistic Regression,10,0.5572878133,1
+2025-11-01,06,Health,0,0,Logistic Regression,10,0.09779032734,0
+2025-11-01,07,Transport,-28.34042856,0,Logistic Regression,10,0.6808184803,1
+2025-11-01,08,Information and Communication,0,0,Logistic Regression,10,0.09849757608,0
+2025-11-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,10,0.09743861145,0
+2025-11-01,10,Education Services,0,0,Logistic Regression,10,0.09833102538,0
+2025-11-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,10,0.09805779876,0
+2025-11-01,12,Insurance and Financial Services,-0.1019218001,0,Logistic Regression,10,0.09957882951,0
+2025-11-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-4.604365303,0,Logistic Regression,10,0.09470259654,0
+2025-12-01,01,Food and Non-Alcoholic Beverages,-21.0677955,0,Logistic Regression,10,0.7914300781,1
+2025-12-01,02,"Alcholoic Beverages, Tobacco and Narcotics",28.03696231,1,Logistic Regression,10,0.8871935664,1
+2025-12-01,03,Clothing and Footwear,15.25497474,1,Logistic Regression,10,0.2742425059,0
+2025-12-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-4.973916215,0,Logistic Regression,10,0.736828862,1
+2025-12-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-5.692729687,0,Logistic Regression,10,0.5870623059,1
+2025-12-01,06,Health,0,0,Logistic Regression,10,0.1041585947,0
+2025-12-01,07,Transport,-38.47549494,0,Logistic Regression,10,0.654120271,1
+2025-12-01,08,Information and Communication,0,0,Logistic Regression,10,0.1048767159,0
+2025-12-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,10,0.1037866094,0
+2025-12-01,10,Education Services,0,0,Logistic Regression,10,0.1047304166,0
+2025-12-01,11,Resturants and Accomodation Services,3.646167423,0,Logistic Regression,10,0.104441468,0
+2025-12-01,12,Insurance and Financial Services,-0.1905749826,0,Logistic Regression,10,0.1059926578,0
+2025-12-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-1.480742342,0,Logistic Regression,10,0.1341796209,0
+2026-01-01,01,Food and Non-Alcoholic Beverages,-5.986423122,0,Logistic Regression,10,0.802380334,1
+2026-01-01,02,"Alcholoic Beverages, Tobacco and Narcotics",26.04471324,1,Logistic Regression,10,0.9064720421,1
+2026-01-01,03,Clothing and Footwear,12.88696575,1,Logistic Regression,10,0.387740152,0
+2026-01-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-1.100689656,0,Logistic Regression,10,0.7343841378,1
+2026-01-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.6384709768,0,Logistic Regression,10,0.642514336,1
+2026-01-01,06,Health,0,0,Logistic Regression,10,0.1067699019,0
+2026-01-01,07,Transport,-3.103486878,0,Logistic Regression,10,0.6814019513,1
+2026-01-01,08,Information and Communication,0,0,Logistic Regression,10,0.1074214793,0
+2026-01-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,10,0.1063896982,0
+2026-01-01,10,Education Services,0,0,Logistic Regression,10,0.1073543416,0
+2026-01-01,11,Resturants and Accomodation Services,-0.8575502774,0,Logistic Regression,10,0.1155006512,0
+2026-01-01,12,Insurance and Financial Services,-0.3424349794,0,Logistic Regression,10,0.1083873103,0
+2026-01-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",3.832972616,0,Logistic Regression,10,0.1580574878,0
+2026-02-01,01,Food and Non-Alcoholic Beverages,-5.435105199,0,Logistic Regression,10,0.8415245371,1
+2026-02-01,02,"Alcholoic Beverages, Tobacco and Narcotics",282.77494,1,Logistic Regression,10,0.9398145146,1
+2026-02-01,03,Clothing and Footwear,3.152366104,0,Logistic Regression,10,0.3991622577,0
+2026-02-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-14.09411416,0,Logistic Regression,10,0.8338959161,1
+2026-02-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.606720969,0,Logistic Regression,10,0.6742402998,1
+2026-02-01,06,Health,0,0,Logistic Regression,10,0.1046684296,0
+2026-02-01,07,Transport,-8.194061751,0,Logistic Regression,10,0.7807182856,1
+2026-02-01,08,Information and Communication,0,0,Logistic Regression,10,0.1053086944,0
+2026-02-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,10,0.1042948354,0
+2026-02-01,10,Education Services,0,0,Logistic Regression,10,0.1052427215,0
+2026-02-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,10,0.1078162112,0
+2026-02-01,12,Insurance and Financial Services,-0.1596645015,0,Logistic Regression,10,0.1055790612,0
+2026-02-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.486228689,0,Logistic Regression,10,0.1892356422,0
+2025-03-01,01,Food and Non-Alcoholic Beverages,42.97477065,1,Random Forest,10,0.7332960924,1
+2025-03-01,02,"Alcholoic Beverages, Tobacco and Narcotics",77.78101061,1,Random Forest,10,0.6060509572,1
+2025-03-01,03,Clothing and Footwear,-0.1146437264,0,Random Forest,10,0.6450360062,1
+2025-03-01,04,"Housing, Water, Electricity, Gas and Other Fuels",207.4899283,1,Random Forest,10,0.6839486648,1
+2025-03-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",4.062145293,0,Random Forest,10,0.5732920888,1
+2025-03-01,06,Health,0,0,Random Forest,10,0.07623709465,0
+2025-03-01,07,Transport,-16.84801965,0,Random Forest,10,0.7296986547,1
+2025-03-01,08,Information and Communication,0,0,Random Forest,10,0.1396955681,0
+2025-03-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,10,0.1147521843,0
+2025-03-01,10,Education Services,0,0,Random Forest,10,0.04645677543,0
+2025-03-01,11,Resturants and Accomodation Services,0,0,Random Forest,10,0.04622534741,0
+2025-03-01,12,Insurance and Financial Services,0.3366684021,0,Random Forest,10,0.05964380199,0
+2025-03-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.423687254,0,Random Forest,10,0.278200619,0
+2025-04-01,01,Food and Non-Alcoholic Beverages,60.38889677,1,Random Forest,10,0.7102681687,1
+2025-04-01,02,"Alcholoic Beverages, Tobacco and Narcotics",143.2605696,1,Random Forest,10,0.854128572,1
+2025-04-01,03,Clothing and Footwear,0.09368695993,0,Random Forest,10,0.4664247319,0
+2025-04-01,04,"Housing, Water, Electricity, Gas and Other Fuels",110.823997,1,Random Forest,10,0.8493690193,1
+2025-04-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",36.45339319,1,Random Forest,10,0.6560004942,1
+2025-04-01,06,Health,0,0,Random Forest,10,0.06011829267,0
+2025-04-01,07,Transport,54.1137936,1,Random Forest,10,0.6471113488,1
+2025-04-01,08,Information and Communication,0,0,Random Forest,10,0.04907534237,0
+2025-04-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,10,0.05189309357,0
+2025-04-01,10,Education Services,0,0,Random Forest,10,0.03884699371,0
+2025-04-01,11,Resturants and Accomodation Services,0,0,Random Forest,10,0.03861556569,0
+2025-04-01,12,Insurance and Financial Services,0.2019427172,0,Random Forest,10,0.08147487079,0
+2025-04-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",25.56268603,1,Random Forest,10,0.2794629697,0
+2025-05-01,01,Food and Non-Alcoholic Beverages,48.53550618,1,Random Forest,10,0.726214214,1
+2025-05-01,02,"Alcholoic Beverages, Tobacco and Narcotics",96.131111,1,Random Forest,10,0.8884204543,1
+2025-05-01,03,Clothing and Footwear,0.1495926846,0,Random Forest,10,0.4944909706,0
+2025-05-01,04,"Housing, Water, Electricity, Gas and Other Fuels",8.536733283,0,Random Forest,10,0.8513985417,1
+2025-05-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.7962139351,0,Random Forest,10,0.6717808702,1
+2025-05-01,06,Health,0,0,Random Forest,10,0.04338672812,0
+2025-05-01,07,Transport,-20.81133217,0,Random Forest,10,0.7080697094,1
+2025-05-01,08,Information and Communication,0,0,Random Forest,10,0.05016890963,0
+2025-05-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,10,0.05298666082,0
+2025-05-01,10,Education Services,0,0,Random Forest,10,0.03994056096,0
+2025-05-01,11,Resturants and Accomodation Services,0,0,Random Forest,10,0.03970913294,0
+2025-05-01,12,Insurance and Financial Services,-0.550186821,0,Random Forest,10,0.1096255266,0
+2025-05-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",7.050209979,0,Random Forest,10,0.6552576833,1
+2025-06-01,01,Food and Non-Alcoholic Beverages,91.13649179,1,Random Forest,10,0.8052816432,1
+2025-06-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-65.95014339,0,Random Forest,10,0.8004981174,1
+2025-06-01,03,Clothing and Footwear,0,0,Random Forest,10,0.2176183059,0
+2025-06-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-0.4720682098,0,Random Forest,10,0.7829766865,1
+2025-06-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",0,0,Random Forest,10,0.5830202614,1
+2025-06-01,06,Health,0,0,Random Forest,10,0.0542205819,0
+2025-06-01,07,Transport,41.07879566,1,Random Forest,10,0.5696359282,1
+2025-06-01,08,Information and Communication,0.4349320315,0,Random Forest,10,0.06061327065,0
+2025-06-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,10,0.06518599782,0
+2025-06-01,10,Education Services,0,0,Random Forest,10,0.05139941474,0
+2025-06-01,11,Resturants and Accomodation Services,0,0,Random Forest,10,0.05116798672,0
+2025-06-01,12,Insurance and Financial Services,-0.3182850236,0,Random Forest,10,0.07351819301,0
+2025-06-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.713476785,0,Random Forest,10,0.6197416648,1
+2025-07-01,01,Food and Non-Alcoholic Beverages,5.768769994,0,Random Forest,10,0.8014127714,1
+2025-07-01,02,"Alcholoic Beverages, Tobacco and Narcotics",12.97445539,1,Random Forest,10,0.7305203081,1
+2025-07-01,03,Clothing and Footwear,0,0,Random Forest,10,0.1131295524,0
+2025-07-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.1779708939,0,Random Forest,10,0.6684066098,1
+2025-07-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-2.106913641,0,Random Forest,10,0.4794750892,0
+2025-07-01,06,Health,0,0,Random Forest,10,0.05551080435,0
+2025-07-01,07,Transport,11.18334735,1,Random Forest,10,0.7368959071,1
+2025-07-01,08,Information and Communication,0,0,Random Forest,10,0.1278818336,0
+2025-07-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,10,0.05384811019,0
+2025-07-01,10,Education Services,0,0,Random Forest,10,0.05271779034,0
+2025-07-01,11,Resturants and Accomodation Services,0,0,Random Forest,10,0.05202666155,0
+2025-07-01,12,Insurance and Financial Services,-0.6143993117,0,Random Forest,10,0.08968313795,0
+2025-07-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",14.44162706,1,Random Forest,10,0.5821130137,1
+2025-08-01,01,Food and Non-Alcoholic Beverages,-33.57579974,0,Random Forest,10,0.7298397332,1
+2025-08-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-14.80433993,0,Random Forest,10,0.7606812812,1
+2025-08-01,03,Clothing and Footwear,0,0,Random Forest,10,0.1055309948,0
+2025-08-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.2489650617,0,Random Forest,10,0.6128240653,1
+2025-08-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-4.335432736,0,Random Forest,10,0.300788524,0
+2025-08-01,06,Health,0,0,Random Forest,10,0.04576877799,0
+2025-08-01,07,Transport,20.03027605,1,Random Forest,10,0.7859981806,1
+2025-08-01,08,Information and Communication,0,0,Random Forest,10,0.1066763704,0
+2025-08-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,10,0.04410608384,0
+2025-08-01,10,Education Services,0,0,Random Forest,10,0.04297576399,0
+2025-08-01,11,Resturants and Accomodation Services,0,0,Random Forest,10,0.04318015758,0
+2025-08-01,12,Insurance and Financial Services,-0.320089447,0,Random Forest,10,0.09563457291,0
+2025-08-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.778493139,0,Random Forest,10,0.6975121228,1
+2025-09-01,01,Food and Non-Alcoholic Beverages,-15.53621426,0,Random Forest,10,0.5999587041,1
+2025-09-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-64.93696868,0,Random Forest,10,0.7574286226,1
+2025-09-01,03,Clothing and Footwear,0,0,Random Forest,10,0.09168855564,0
+2025-09-01,04,"Housing, Water, Electricity, Gas and Other Fuels",27.26431351,1,Random Forest,10,0.4137028144,0
+2025-09-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",20.29934675,1,Random Forest,10,0.3209875885,0
+2025-09-01,06,Health,0,0,Random Forest,10,0.05066277024,0
+2025-09-01,07,Transport,-6.473533872,0,Random Forest,10,0.7636985508,1
+2025-09-01,08,Information and Communication,0.2080374224,0,Random Forest,10,0.08096232342,0
+2025-09-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,10,0.04900007609,0
+2025-09-01,10,Education Services,0,0,Random Forest,10,0.04786975623,0
+2025-09-01,11,Resturants and Accomodation Services,0,0,Random Forest,10,0.04807414983,0
+2025-09-01,12,Insurance and Financial Services,0.1405459785,0,Random Forest,10,0.09323079159,0
+2025-09-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-18.88576501,0,Random Forest,10,0.6687692656,1
+2025-10-01,01,Food and Non-Alcoholic Beverages,-30.34260931,0,Random Forest,10,0.6461131632,1
+2025-10-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-49.91871844,0,Random Forest,10,0.6356479105,1
+2025-10-01,03,Clothing and Footwear,-7.64180752,0,Random Forest,10,0.1128442428,0
+2025-10-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-78.61101116,0,Random Forest,10,0.7372452084,1
+2025-10-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-20.31012074,0,Random Forest,10,0.8099879719,1
+2025-10-01,06,Health,0,0,Random Forest,10,0.06701216503,0
+2025-10-01,07,Transport,-20.04685482,0,Random Forest,10,0.6164225145,1
+2025-10-01,08,Information and Communication,0,0,Random Forest,10,0.1562601007,0
+2025-10-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,10,0.06412995868,0
+2025-10-01,10,Education Services,0,0,Random Forest,10,0.06421915103,0
+2025-10-01,11,Resturants and Accomodation Services,0,0,Random Forest,10,0.06360872981,0
+2025-10-01,12,Insurance and Financial Services,-0.2475672801,0,Random Forest,10,0.1723055773,0
+2025-10-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-24.89548125,0,Random Forest,10,0.4788290692,0
+2025-11-01,01,Food and Non-Alcoholic Beverages,-55.23510808,0,Random Forest,10,0.7643284412,1
+2025-11-01,02,"Alcholoic Beverages, Tobacco and Narcotics",11.05807049,1,Random Forest,10,0.6918332689,1
+2025-11-01,03,Clothing and Footwear,-15.96097173,0,Random Forest,10,0.3675733407,0
+2025-11-01,04,"Housing, Water, Electricity, Gas and Other Fuels",2.526403938,0,Random Forest,10,0.6045355308,1
+2025-11-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-19.86288119,0,Random Forest,10,0.6083849088,1
+2025-11-01,06,Health,0,0,Random Forest,10,0.09576031905,0
+2025-11-01,07,Transport,-28.34042856,0,Random Forest,10,0.5604902482,1
+2025-11-01,08,Information and Communication,0,0,Random Forest,10,0.135271075,0
+2025-11-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,10,0.0928781127,0
+2025-11-01,10,Education Services,0,0,Random Forest,10,0.09036970745,0
+2025-11-01,11,Resturants and Accomodation Services,0,0,Random Forest,10,0.09146136144,0
+2025-11-01,12,Insurance and Financial Services,-0.1019218001,0,Random Forest,10,0.117449716,0
+2025-11-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-4.604365303,0,Random Forest,10,0.5483331917,1
+2025-12-01,01,Food and Non-Alcoholic Beverages,-21.0677955,0,Random Forest,10,0.6613792958,1
+2025-12-01,02,"Alcholoic Beverages, Tobacco and Narcotics",28.03696231,1,Random Forest,10,0.7208706298,1
+2025-12-01,03,Clothing and Footwear,15.25497474,1,Random Forest,10,0.5735847083,1
+2025-12-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-4.973916215,0,Random Forest,10,0.5946428279,1
+2025-12-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-5.692729687,0,Random Forest,10,0.520682639,1
+2025-12-01,06,Health,0,0,Random Forest,10,0.0772542602,0
+2025-12-01,07,Transport,-38.47549494,0,Random Forest,10,0.6499126887,1
+2025-12-01,08,Information and Communication,0,0,Random Forest,10,0.1095837435,0
+2025-12-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,10,0.07437205385,0
+2025-12-01,10,Education Services,0,0,Random Forest,10,0.07443309304,0
+2025-12-01,11,Resturants and Accomodation Services,3.646167423,0,Random Forest,10,0.07338685021,0
+2025-12-01,12,Insurance and Financial Services,-0.1905749826,0,Random Forest,10,0.08649879677,0
+2025-12-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-1.480742342,0,Random Forest,10,0.597807456,1
+2026-01-01,01,Food and Non-Alcoholic Beverages,-5.986423122,0,Random Forest,10,0.6423776395,1
+2026-01-01,02,"Alcholoic Beverages, Tobacco and Narcotics",26.04471324,1,Random Forest,10,0.7165890927,1
+2026-01-01,03,Clothing and Footwear,12.88696575,1,Random Forest,10,0.7142704607,1
+2026-01-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-1.100689656,0,Random Forest,10,0.5917656932,1
+2026-01-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.6384709768,0,Random Forest,10,0.6131446036,1
+2026-01-01,06,Health,0,0,Random Forest,10,0.07167273955,0
+2026-01-01,07,Transport,-3.103486878,0,Random Forest,10,0.666292453,1
+2026-01-01,08,Information and Communication,0,0,Random Forest,10,0.09285158787,0
+2026-01-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,10,0.06918002596,0
+2026-01-01,10,Education Services,0,0,Random Forest,10,0.06822657239,0
+2026-01-01,11,Resturants and Accomodation Services,-0.8575502774,0,Random Forest,10,0.2279282346,0
+2026-01-01,12,Insurance and Financial Services,-0.3424349794,0,Random Forest,10,0.08462728342,0
+2026-01-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",3.832972616,0,Random Forest,10,0.6065721143,1
+2026-02-01,01,Food and Non-Alcoholic Beverages,-5.435105199,0,Random Forest,10,0.6158730101,1
+2026-02-01,02,"Alcholoic Beverages, Tobacco and Narcotics",282.77494,1,Random Forest,10,0.7638905584,1
+2026-02-01,03,Clothing and Footwear,3.152366104,0,Random Forest,10,0.7010160937,1
+2026-02-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-14.09411416,0,Random Forest,10,0.4160182653,0
+2026-02-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.606720969,0,Random Forest,10,0.6308474424,1
+2026-02-01,06,Health,0,0,Random Forest,10,0.05944172809,0
+2026-02-01,07,Transport,-8.194061751,0,Random Forest,10,0.6624958355,1
+2026-02-01,08,Information and Communication,0,0,Random Forest,10,0.08062057641,0
+2026-02-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,10,0.0569490145,0
+2026-02-01,10,Education Services,0,0,Random Forest,10,0.05599556093,0
+2026-02-01,11,Resturants and Accomodation Services,0,0,Random Forest,10,0.1984301338,0
+2026-02-01,12,Insurance and Financial Services,-0.1596645015,0,Random Forest,10,0.06862306368,0
+2026-02-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.486228689,0,Random Forest,10,0.5266451513,1
+2025-03-01,01,Food and Non-Alcoholic Beverages,42.97477065,1,No spike,20,0,0
+2025-03-01,02,"Alcholoic Beverages, Tobacco and Narcotics",77.78101061,1,No spike,20,0,0
+2025-03-01,03,Clothing and Footwear,-0.1146437264,0,No spike,20,0,0
+2025-03-01,04,"Housing, Water, Electricity, Gas and Other Fuels",207.4899283,1,No spike,20,0,0
+2025-03-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",4.062145293,0,No spike,20,0,0
+2025-03-01,06,Health,0,0,No spike,20,0,0
+2025-03-01,07,Transport,-16.84801965,0,No spike,20,0,0
+2025-03-01,08,Information and Communication,0,0,No spike,20,0,0
+2025-03-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,20,0,0
+2025-03-01,10,Education Services,0,0,No spike,20,0,0
+2025-03-01,11,Resturants and Accomodation Services,0,0,No spike,20,0,0
+2025-03-01,12,Insurance and Financial Services,0.3366684021,0,No spike,20,0,0
+2025-03-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.423687254,0,No spike,20,0,0
+2025-04-01,01,Food and Non-Alcoholic Beverages,60.38889677,1,No spike,20,0,0
+2025-04-01,02,"Alcholoic Beverages, Tobacco and Narcotics",143.2605696,1,No spike,20,0,0
+2025-04-01,03,Clothing and Footwear,0.09368695993,0,No spike,20,0,0
+2025-04-01,04,"Housing, Water, Electricity, Gas and Other Fuels",110.823997,1,No spike,20,0,0
+2025-04-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",36.45339319,1,No spike,20,0,0
+2025-04-01,06,Health,0,0,No spike,20,0,0
+2025-04-01,07,Transport,54.1137936,1,No spike,20,0,0
+2025-04-01,08,Information and Communication,0,0,No spike,20,0,0
+2025-04-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,20,0,0
+2025-04-01,10,Education Services,0,0,No spike,20,0,0
+2025-04-01,11,Resturants and Accomodation Services,0,0,No spike,20,0,0
+2025-04-01,12,Insurance and Financial Services,0.2019427172,0,No spike,20,0,0
+2025-04-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",25.56268603,1,No spike,20,0,0
+2025-05-01,01,Food and Non-Alcoholic Beverages,48.53550618,1,No spike,20,0,0
+2025-05-01,02,"Alcholoic Beverages, Tobacco and Narcotics",96.131111,1,No spike,20,0,0
+2025-05-01,03,Clothing and Footwear,0.1495926846,0,No spike,20,0,0
+2025-05-01,04,"Housing, Water, Electricity, Gas and Other Fuels",8.536733283,0,No spike,20,0,0
+2025-05-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.7962139351,0,No spike,20,0,0
+2025-05-01,06,Health,0,0,No spike,20,0,0
+2025-05-01,07,Transport,-20.81133217,0,No spike,20,0,0
+2025-05-01,08,Information and Communication,0,0,No spike,20,0,0
+2025-05-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,20,0,0
+2025-05-01,10,Education Services,0,0,No spike,20,0,0
+2025-05-01,11,Resturants and Accomodation Services,0,0,No spike,20,0,0
+2025-05-01,12,Insurance and Financial Services,-0.550186821,0,No spike,20,0,0
+2025-05-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",7.050209979,0,No spike,20,0,0
+2025-06-01,01,Food and Non-Alcoholic Beverages,91.13649179,1,No spike,20,0,0
+2025-06-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-65.95014339,0,No spike,20,0,0
+2025-06-01,03,Clothing and Footwear,0,0,No spike,20,0,0
+2025-06-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-0.4720682098,0,No spike,20,0,0
+2025-06-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",0,0,No spike,20,0,0
+2025-06-01,06,Health,0,0,No spike,20,0,0
+2025-06-01,07,Transport,41.07879566,1,No spike,20,0,0
+2025-06-01,08,Information and Communication,0.4349320315,0,No spike,20,0,0
+2025-06-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,20,0,0
+2025-06-01,10,Education Services,0,0,No spike,20,0,0
+2025-06-01,11,Resturants and Accomodation Services,0,0,No spike,20,0,0
+2025-06-01,12,Insurance and Financial Services,-0.3182850236,0,No spike,20,0,0
+2025-06-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.713476785,0,No spike,20,0,0
+2025-07-01,01,Food and Non-Alcoholic Beverages,5.768769994,0,No spike,20,0,0
+2025-07-01,02,"Alcholoic Beverages, Tobacco and Narcotics",12.97445539,0,No spike,20,0,0
+2025-07-01,03,Clothing and Footwear,0,0,No spike,20,0,0
+2025-07-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.1779708939,0,No spike,20,0,0
+2025-07-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-2.106913641,0,No spike,20,0,0
+2025-07-01,06,Health,0,0,No spike,20,0,0
+2025-07-01,07,Transport,11.18334735,0,No spike,20,0,0
+2025-07-01,08,Information and Communication,0,0,No spike,20,0,0
+2025-07-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,20,0,0
+2025-07-01,10,Education Services,0,0,No spike,20,0,0
+2025-07-01,11,Resturants and Accomodation Services,0,0,No spike,20,0,0
+2025-07-01,12,Insurance and Financial Services,-0.6143993117,0,No spike,20,0,0
+2025-07-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",14.44162706,0,No spike,20,0,0
+2025-08-01,01,Food and Non-Alcoholic Beverages,-33.57579974,0,No spike,20,0,0
+2025-08-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-14.80433993,0,No spike,20,0,0
+2025-08-01,03,Clothing and Footwear,0,0,No spike,20,0,0
+2025-08-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.2489650617,0,No spike,20,0,0
+2025-08-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-4.335432736,0,No spike,20,0,0
+2025-08-01,06,Health,0,0,No spike,20,0,0
+2025-08-01,07,Transport,20.03027605,1,No spike,20,0,0
+2025-08-01,08,Information and Communication,0,0,No spike,20,0,0
+2025-08-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,20,0,0
+2025-08-01,10,Education Services,0,0,No spike,20,0,0
+2025-08-01,11,Resturants and Accomodation Services,0,0,No spike,20,0,0
+2025-08-01,12,Insurance and Financial Services,-0.320089447,0,No spike,20,0,0
+2025-08-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.778493139,0,No spike,20,0,0
+2025-09-01,01,Food and Non-Alcoholic Beverages,-15.53621426,0,No spike,20,0,0
+2025-09-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-64.93696868,0,No spike,20,0,0
+2025-09-01,03,Clothing and Footwear,0,0,No spike,20,0,0
+2025-09-01,04,"Housing, Water, Electricity, Gas and Other Fuels",27.26431351,1,No spike,20,0,0
+2025-09-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",20.29934675,1,No spike,20,0,0
+2025-09-01,06,Health,0,0,No spike,20,0,0
+2025-09-01,07,Transport,-6.473533872,0,No spike,20,0,0
+2025-09-01,08,Information and Communication,0.2080374224,0,No spike,20,0,0
+2025-09-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,20,0,0
+2025-09-01,10,Education Services,0,0,No spike,20,0,0
+2025-09-01,11,Resturants and Accomodation Services,0,0,No spike,20,0,0
+2025-09-01,12,Insurance and Financial Services,0.1405459785,0,No spike,20,0,0
+2025-09-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-18.88576501,0,No spike,20,0,0
+2025-10-01,01,Food and Non-Alcoholic Beverages,-30.34260931,0,No spike,20,0,0
+2025-10-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-49.91871844,0,No spike,20,0,0
+2025-10-01,03,Clothing and Footwear,-7.64180752,0,No spike,20,0,0
+2025-10-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-78.61101116,0,No spike,20,0,0
+2025-10-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-20.31012074,0,No spike,20,0,0
+2025-10-01,06,Health,0,0,No spike,20,0,0
+2025-10-01,07,Transport,-20.04685482,0,No spike,20,0,0
+2025-10-01,08,Information and Communication,0,0,No spike,20,0,0
+2025-10-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,20,0,0
+2025-10-01,10,Education Services,0,0,No spike,20,0,0
+2025-10-01,11,Resturants and Accomodation Services,0,0,No spike,20,0,0
+2025-10-01,12,Insurance and Financial Services,-0.2475672801,0,No spike,20,0,0
+2025-10-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-24.89548125,0,No spike,20,0,0
+2025-11-01,01,Food and Non-Alcoholic Beverages,-55.23510808,0,No spike,20,0,0
+2025-11-01,02,"Alcholoic Beverages, Tobacco and Narcotics",11.05807049,0,No spike,20,0,0
+2025-11-01,03,Clothing and Footwear,-15.96097173,0,No spike,20,0,0
+2025-11-01,04,"Housing, Water, Electricity, Gas and Other Fuels",2.526403938,0,No spike,20,0,0
+2025-11-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-19.86288119,0,No spike,20,0,0
+2025-11-01,06,Health,0,0,No spike,20,0,0
+2025-11-01,07,Transport,-28.34042856,0,No spike,20,0,0
+2025-11-01,08,Information and Communication,0,0,No spike,20,0,0
+2025-11-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,20,0,0
+2025-11-01,10,Education Services,0,0,No spike,20,0,0
+2025-11-01,11,Resturants and Accomodation Services,0,0,No spike,20,0,0
+2025-11-01,12,Insurance and Financial Services,-0.1019218001,0,No spike,20,0,0
+2025-11-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-4.604365303,0,No spike,20,0,0
+2025-12-01,01,Food and Non-Alcoholic Beverages,-21.0677955,0,No spike,20,0,0
+2025-12-01,02,"Alcholoic Beverages, Tobacco and Narcotics",28.03696231,1,No spike,20,0,0
+2025-12-01,03,Clothing and Footwear,15.25497474,0,No spike,20,0,0
+2025-12-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-4.973916215,0,No spike,20,0,0
+2025-12-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-5.692729687,0,No spike,20,0,0
+2025-12-01,06,Health,0,0,No spike,20,0,0
+2025-12-01,07,Transport,-38.47549494,0,No spike,20,0,0
+2025-12-01,08,Information and Communication,0,0,No spike,20,0,0
+2025-12-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,20,0,0
+2025-12-01,10,Education Services,0,0,No spike,20,0,0
+2025-12-01,11,Resturants and Accomodation Services,3.646167423,0,No spike,20,0,0
+2025-12-01,12,Insurance and Financial Services,-0.1905749826,0,No spike,20,0,0
+2025-12-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-1.480742342,0,No spike,20,0,0
+2026-01-01,01,Food and Non-Alcoholic Beverages,-5.986423122,0,No spike,20,0,0
+2026-01-01,02,"Alcholoic Beverages, Tobacco and Narcotics",26.04471324,1,No spike,20,0,0
+2026-01-01,03,Clothing and Footwear,12.88696575,0,No spike,20,0,0
+2026-01-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-1.100689656,0,No spike,20,0,0
+2026-01-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.6384709768,0,No spike,20,0,0
+2026-01-01,06,Health,0,0,No spike,20,0,0
+2026-01-01,07,Transport,-3.103486878,0,No spike,20,0,0
+2026-01-01,08,Information and Communication,0,0,No spike,20,0,0
+2026-01-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,20,0,0
+2026-01-01,10,Education Services,0,0,No spike,20,0,0
+2026-01-01,11,Resturants and Accomodation Services,-0.8575502774,0,No spike,20,0,0
+2026-01-01,12,Insurance and Financial Services,-0.3424349794,0,No spike,20,0,0
+2026-01-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",3.832972616,0,No spike,20,0,0
+2026-02-01,01,Food and Non-Alcoholic Beverages,-5.435105199,0,No spike,20,0,0
+2026-02-01,02,"Alcholoic Beverages, Tobacco and Narcotics",282.77494,1,No spike,20,0,0
+2026-02-01,03,Clothing and Footwear,3.152366104,0,No spike,20,0,0
+2026-02-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-14.09411416,0,No spike,20,0,0
+2026-02-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.606720969,0,No spike,20,0,0
+2026-02-01,06,Health,0,0,No spike,20,0,0
+2026-02-01,07,Transport,-8.194061751,0,No spike,20,0,0
+2026-02-01,08,Information and Communication,0,0,No spike,20,0,0
+2026-02-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,No spike,20,0,0
+2026-02-01,10,Education Services,0,0,No spike,20,0,0
+2026-02-01,11,Resturants and Accomodation Services,0,0,No spike,20,0,0
+2026-02-01,12,Insurance and Financial Services,-0.1596645015,0,No spike,20,0,0
+2026-02-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.486228689,0,No spike,20,0,0
+2025-03-01,01,Food and Non-Alcoholic Beverages,42.97477065,1,Persistence,20,0,0
+2025-03-01,02,"Alcholoic Beverages, Tobacco and Narcotics",77.78101061,1,Persistence,20,0,0
+2025-03-01,03,Clothing and Footwear,-0.1146437264,0,Persistence,20,0,0
+2025-03-01,04,"Housing, Water, Electricity, Gas and Other Fuels",207.4899283,1,Persistence,20,0,0
+2025-03-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",4.062145293,0,Persistence,20,0,0
+2025-03-01,06,Health,0,0,Persistence,20,0,0
+2025-03-01,07,Transport,-16.84801965,0,Persistence,20,0,0
+2025-03-01,08,Information and Communication,0,0,Persistence,20,0,0
+2025-03-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,20,0,0
+2025-03-01,10,Education Services,0,0,Persistence,20,0,0
+2025-03-01,11,Resturants and Accomodation Services,0,0,Persistence,20,0,0
+2025-03-01,12,Insurance and Financial Services,0.3366684021,0,Persistence,20,0,0
+2025-03-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.423687254,0,Persistence,20,0,0
+2025-04-01,01,Food and Non-Alcoholic Beverages,60.38889677,1,Persistence,20,1,1
+2025-04-01,02,"Alcholoic Beverages, Tobacco and Narcotics",143.2605696,1,Persistence,20,1,1
+2025-04-01,03,Clothing and Footwear,0.09368695993,0,Persistence,20,0,0
+2025-04-01,04,"Housing, Water, Electricity, Gas and Other Fuels",110.823997,1,Persistence,20,1,1
+2025-04-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",36.45339319,1,Persistence,20,0,0
+2025-04-01,06,Health,0,0,Persistence,20,0,0
+2025-04-01,07,Transport,54.1137936,1,Persistence,20,0,0
+2025-04-01,08,Information and Communication,0,0,Persistence,20,0,0
+2025-04-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,20,0,0
+2025-04-01,10,Education Services,0,0,Persistence,20,0,0
+2025-04-01,11,Resturants and Accomodation Services,0,0,Persistence,20,0,0
+2025-04-01,12,Insurance and Financial Services,0.2019427172,0,Persistence,20,0,0
+2025-04-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",25.56268603,1,Persistence,20,0,0
+2025-05-01,01,Food and Non-Alcoholic Beverages,48.53550618,1,Persistence,20,1,1
+2025-05-01,02,"Alcholoic Beverages, Tobacco and Narcotics",96.131111,1,Persistence,20,1,1
+2025-05-01,03,Clothing and Footwear,0.1495926846,0,Persistence,20,0,0
+2025-05-01,04,"Housing, Water, Electricity, Gas and Other Fuels",8.536733283,0,Persistence,20,1,1
+2025-05-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.7962139351,0,Persistence,20,1,1
+2025-05-01,06,Health,0,0,Persistence,20,0,0
+2025-05-01,07,Transport,-20.81133217,0,Persistence,20,1,1
+2025-05-01,08,Information and Communication,0,0,Persistence,20,0,0
+2025-05-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,20,0,0
+2025-05-01,10,Education Services,0,0,Persistence,20,0,0
+2025-05-01,11,Resturants and Accomodation Services,0,0,Persistence,20,0,0
+2025-05-01,12,Insurance and Financial Services,-0.550186821,0,Persistence,20,0,0
+2025-05-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",7.050209979,0,Persistence,20,1,1
+2025-06-01,01,Food and Non-Alcoholic Beverages,91.13649179,1,Persistence,20,1,1
+2025-06-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-65.95014339,0,Persistence,20,1,1
+2025-06-01,03,Clothing and Footwear,0,0,Persistence,20,0,0
+2025-06-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-0.4720682098,0,Persistence,20,0,0
+2025-06-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",0,0,Persistence,20,0,0
+2025-06-01,06,Health,0,0,Persistence,20,0,0
+2025-06-01,07,Transport,41.07879566,1,Persistence,20,0,0
+2025-06-01,08,Information and Communication,0.4349320315,0,Persistence,20,0,0
+2025-06-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,20,0,0
+2025-06-01,10,Education Services,0,0,Persistence,20,0,0
+2025-06-01,11,Resturants and Accomodation Services,0,0,Persistence,20,0,0
+2025-06-01,12,Insurance and Financial Services,-0.3182850236,0,Persistence,20,0,0
+2025-06-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.713476785,0,Persistence,20,0,0
+2025-07-01,01,Food and Non-Alcoholic Beverages,5.768769994,0,Persistence,20,1,1
+2025-07-01,02,"Alcholoic Beverages, Tobacco and Narcotics",12.97445539,0,Persistence,20,0,0
+2025-07-01,03,Clothing and Footwear,0,0,Persistence,20,0,0
+2025-07-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.1779708939,0,Persistence,20,0,0
+2025-07-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-2.106913641,0,Persistence,20,0,0
+2025-07-01,06,Health,0,0,Persistence,20,0,0
+2025-07-01,07,Transport,11.18334735,0,Persistence,20,1,1
+2025-07-01,08,Information and Communication,0,0,Persistence,20,0,0
+2025-07-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,20,0,0
+2025-07-01,10,Education Services,0,0,Persistence,20,0,0
+2025-07-01,11,Resturants and Accomodation Services,0,0,Persistence,20,0,0
+2025-07-01,12,Insurance and Financial Services,-0.6143993117,0,Persistence,20,0,0
+2025-07-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",14.44162706,0,Persistence,20,0,0
+2025-08-01,01,Food and Non-Alcoholic Beverages,-33.57579974,0,Persistence,20,0,0
+2025-08-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-14.80433993,0,Persistence,20,0,0
+2025-08-01,03,Clothing and Footwear,0,0,Persistence,20,0,0
+2025-08-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.2489650617,0,Persistence,20,0,0
+2025-08-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-4.335432736,0,Persistence,20,0,0
+2025-08-01,06,Health,0,0,Persistence,20,0,0
+2025-08-01,07,Transport,20.03027605,1,Persistence,20,0,0
+2025-08-01,08,Information and Communication,0,0,Persistence,20,0,0
+2025-08-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,20,0,0
+2025-08-01,10,Education Services,0,0,Persistence,20,0,0
+2025-08-01,11,Resturants and Accomodation Services,0,0,Persistence,20,0,0
+2025-08-01,12,Insurance and Financial Services,-0.320089447,0,Persistence,20,0,0
+2025-08-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.778493139,0,Persistence,20,0,0
+2025-09-01,01,Food and Non-Alcoholic Beverages,-15.53621426,0,Persistence,20,0,0
+2025-09-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-64.93696868,0,Persistence,20,0,0
+2025-09-01,03,Clothing and Footwear,0,0,Persistence,20,0,0
+2025-09-01,04,"Housing, Water, Electricity, Gas and Other Fuels",27.26431351,1,Persistence,20,0,0
+2025-09-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",20.29934675,1,Persistence,20,0,0
+2025-09-01,06,Health,0,0,Persistence,20,0,0
+2025-09-01,07,Transport,-6.473533872,0,Persistence,20,1,1
+2025-09-01,08,Information and Communication,0.2080374224,0,Persistence,20,0,0
+2025-09-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,20,0,0
+2025-09-01,10,Education Services,0,0,Persistence,20,0,0
+2025-09-01,11,Resturants and Accomodation Services,0,0,Persistence,20,0,0
+2025-09-01,12,Insurance and Financial Services,0.1405459785,0,Persistence,20,0,0
+2025-09-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-18.88576501,0,Persistence,20,0,0
+2025-10-01,01,Food and Non-Alcoholic Beverages,-30.34260931,0,Persistence,20,0,0
+2025-10-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-49.91871844,0,Persistence,20,0,0
+2025-10-01,03,Clothing and Footwear,-7.64180752,0,Persistence,20,0,0
+2025-10-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-78.61101116,0,Persistence,20,1,1
+2025-10-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-20.31012074,0,Persistence,20,1,1
+2025-10-01,06,Health,0,0,Persistence,20,0,0
+2025-10-01,07,Transport,-20.04685482,0,Persistence,20,0,0
+2025-10-01,08,Information and Communication,0,0,Persistence,20,0,0
+2025-10-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,20,0,0
+2025-10-01,10,Education Services,0,0,Persistence,20,0,0
+2025-10-01,11,Resturants and Accomodation Services,0,0,Persistence,20,0,0
+2025-10-01,12,Insurance and Financial Services,-0.2475672801,0,Persistence,20,0,0
+2025-10-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-24.89548125,0,Persistence,20,0,0
+2025-11-01,01,Food and Non-Alcoholic Beverages,-55.23510808,0,Persistence,20,0,0
+2025-11-01,02,"Alcholoic Beverages, Tobacco and Narcotics",11.05807049,0,Persistence,20,0,0
+2025-11-01,03,Clothing and Footwear,-15.96097173,0,Persistence,20,0,0
+2025-11-01,04,"Housing, Water, Electricity, Gas and Other Fuels",2.526403938,0,Persistence,20,0,0
+2025-11-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-19.86288119,0,Persistence,20,0,0
+2025-11-01,06,Health,0,0,Persistence,20,0,0
+2025-11-01,07,Transport,-28.34042856,0,Persistence,20,0,0
+2025-11-01,08,Information and Communication,0,0,Persistence,20,0,0
+2025-11-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,20,0,0
+2025-11-01,10,Education Services,0,0,Persistence,20,0,0
+2025-11-01,11,Resturants and Accomodation Services,0,0,Persistence,20,0,0
+2025-11-01,12,Insurance and Financial Services,-0.1019218001,0,Persistence,20,0,0
+2025-11-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-4.604365303,0,Persistence,20,0,0
+2025-12-01,01,Food and Non-Alcoholic Beverages,-21.0677955,0,Persistence,20,0,0
+2025-12-01,02,"Alcholoic Beverages, Tobacco and Narcotics",28.03696231,1,Persistence,20,0,0
+2025-12-01,03,Clothing and Footwear,15.25497474,0,Persistence,20,0,0
+2025-12-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-4.973916215,0,Persistence,20,0,0
+2025-12-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-5.692729687,0,Persistence,20,0,0
+2025-12-01,06,Health,0,0,Persistence,20,0,0
+2025-12-01,07,Transport,-38.47549494,0,Persistence,20,0,0
+2025-12-01,08,Information and Communication,0,0,Persistence,20,0,0
+2025-12-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,20,0,0
+2025-12-01,10,Education Services,0,0,Persistence,20,0,0
+2025-12-01,11,Resturants and Accomodation Services,3.646167423,0,Persistence,20,0,0
+2025-12-01,12,Insurance and Financial Services,-0.1905749826,0,Persistence,20,0,0
+2025-12-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-1.480742342,0,Persistence,20,0,0
+2026-01-01,01,Food and Non-Alcoholic Beverages,-5.986423122,0,Persistence,20,0,0
+2026-01-01,02,"Alcholoic Beverages, Tobacco and Narcotics",26.04471324,1,Persistence,20,1,1
+2026-01-01,03,Clothing and Footwear,12.88696575,0,Persistence,20,0,0
+2026-01-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-1.100689656,0,Persistence,20,0,0
+2026-01-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.6384709768,0,Persistence,20,0,0
+2026-01-01,06,Health,0,0,Persistence,20,0,0
+2026-01-01,07,Transport,-3.103486878,0,Persistence,20,0,0
+2026-01-01,08,Information and Communication,0,0,Persistence,20,0,0
+2026-01-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,20,0,0
+2026-01-01,10,Education Services,0,0,Persistence,20,0,0
+2026-01-01,11,Resturants and Accomodation Services,-0.8575502774,0,Persistence,20,0,0
+2026-01-01,12,Insurance and Financial Services,-0.3424349794,0,Persistence,20,0,0
+2026-01-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",3.832972616,0,Persistence,20,0,0
+2026-02-01,01,Food and Non-Alcoholic Beverages,-5.435105199,0,Persistence,20,0,0
+2026-02-01,02,"Alcholoic Beverages, Tobacco and Narcotics",282.77494,1,Persistence,20,1,1
+2026-02-01,03,Clothing and Footwear,3.152366104,0,Persistence,20,0,0
+2026-02-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-14.09411416,0,Persistence,20,0,0
+2026-02-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.606720969,0,Persistence,20,0,0
+2026-02-01,06,Health,0,0,Persistence,20,0,0
+2026-02-01,07,Transport,-8.194061751,0,Persistence,20,0,0
+2026-02-01,08,Information and Communication,0,0,Persistence,20,0,0
+2026-02-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Persistence,20,0,0
+2026-02-01,10,Education Services,0,0,Persistence,20,0,0
+2026-02-01,11,Resturants and Accomodation Services,0,0,Persistence,20,0,0
+2026-02-01,12,Insurance and Financial Services,-0.1596645015,0,Persistence,20,0,0
+2026-02-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.486228689,0,Persistence,20,0,0
+2025-03-01,01,Food and Non-Alcoholic Beverages,42.97477065,1,Logistic Regression,20,0.3395072359,0
+2025-03-01,02,"Alcholoic Beverages, Tobacco and Narcotics",77.78101061,1,Logistic Regression,20,0.5157705685,1
+2025-03-01,03,Clothing and Footwear,-0.1146437264,0,Logistic Regression,20,0.212692542,0
+2025-03-01,04,"Housing, Water, Electricity, Gas and Other Fuels",207.4899283,1,Logistic Regression,20,0.357161757,0
+2025-03-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",4.062145293,0,Logistic Regression,20,0.2287836965,0
+2025-03-01,06,Health,0,0,Logistic Regression,20,0.03538516646,0
+2025-03-01,07,Transport,-16.84801965,0,Logistic Regression,20,0.2378444394,0
+2025-03-01,08,Information and Communication,0,0,Logistic Regression,20,0.03501346995,0
+2025-03-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,20,0.03584519968,0
+2025-03-01,10,Education Services,0,0,Logistic Regression,20,0.03476322697,0
+2025-03-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,20,0.03458742204,0
+2025-03-01,12,Insurance and Financial Services,0.3366684021,0,Logistic Regression,20,0.03479697832,0
+2025-03-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.423687254,0,Logistic Regression,20,0.0362018349,0
+2025-04-01,01,Food and Non-Alcoholic Beverages,60.38889677,1,Logistic Regression,20,0.4600022586,0
+2025-04-01,02,"Alcholoic Beverages, Tobacco and Narcotics",143.2605696,1,Logistic Regression,20,0.5221538319,1
+2025-04-01,03,Clothing and Footwear,0.09368695993,0,Logistic Regression,20,0.2146391443,0
+2025-04-01,04,"Housing, Water, Electricity, Gas and Other Fuels",110.823997,1,Logistic Regression,20,0.9393328341,1
+2025-04-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",36.45339319,1,Logistic Regression,20,0.1660766567,0
+2025-04-01,06,Health,0,0,Logistic Regression,20,0.02791759501,0
+2025-04-01,07,Transport,54.1137936,1,Logistic Regression,20,0.1432694057,0
+2025-04-01,08,Information and Communication,0,0,Logistic Regression,20,0.02812593986,0
+2025-04-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,20,0.02689144042,0
+2025-04-01,10,Education Services,0,0,Logistic Regression,20,0.02662617317,0
+2025-04-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,20,0.02649038967,0
+2025-04-01,12,Insurance and Financial Services,0.2019427172,0,Logistic Regression,20,0.02700271105,0
+2025-04-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",25.56268603,1,Logistic Regression,20,0.02866097695,0
+2025-05-01,01,Food and Non-Alcoholic Beverages,48.53550618,1,Logistic Regression,20,0.7891933692,1
+2025-05-01,02,"Alcholoic Beverages, Tobacco and Narcotics",96.131111,1,Logistic Regression,20,0.935536167,1
+2025-05-01,03,Clothing and Footwear,0.1495926846,0,Logistic Regression,20,0.217983212,0
+2025-05-01,04,"Housing, Water, Electricity, Gas and Other Fuels",8.536733283,0,Logistic Regression,20,0.9514394999,1
+2025-05-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.7962139351,0,Logistic Regression,20,0.3104600571,0
+2025-05-01,06,Health,0,0,Logistic Regression,20,0.02630550407,0
+2025-05-01,07,Transport,-20.81133217,0,Logistic Regression,20,0.436376554,0
+2025-05-01,08,Information and Communication,0,0,Logistic Regression,20,0.02751796326,0
+2025-05-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,20,0.02630942665,0
+2025-05-01,10,Education Services,0,0,Logistic Regression,20,0.02604974692,0
+2025-05-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,20,0.0259168247,0
+2025-05-01,12,Insurance and Financial Services,-0.550186821,0,Logistic Regression,20,0.02642115984,0
+2025-05-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",7.050209979,0,Logistic Regression,20,0.05054781219,0
+2025-06-01,01,Food and Non-Alcoholic Beverages,91.13649179,1,Logistic Regression,20,0.969742992,1
+2025-06-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-65.95014339,0,Logistic Regression,20,0.9978785686,1
+2025-06-01,03,Clothing and Footwear,0,0,Logistic Regression,20,0.1916680631,0
+2025-06-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-0.4720682098,0,Logistic Regression,20,0.9911106046,1
+2025-06-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",0,0,Logistic Regression,20,0.3302971021,0
+2025-06-01,06,Health,0,0,Logistic Regression,20,0.03307979368,0
+2025-06-01,07,Transport,41.07879566,1,Logistic Regression,20,0.2519535852,0
+2025-06-01,08,Information and Communication,0.4349320315,0,Logistic Regression,20,0.03459339665,0
+2025-06-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,20,0.03308469209,0
+2025-06-01,10,Education Services,0,0,Logistic Regression,20,0.03276038902,0
+2025-06-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,20,0.03259437082,0
+2025-06-01,12,Insurance and Financial Services,-0.3182850236,0,Logistic Regression,20,0.03320374728,0
+2025-06-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.713476785,0,Logistic Regression,20,0.0616412714,0
+2025-07-01,01,Food and Non-Alcoholic Beverages,5.768769994,0,Logistic Regression,20,0.9822096574,1
+2025-07-01,02,"Alcholoic Beverages, Tobacco and Narcotics",12.97445539,0,Logistic Regression,20,0.9814637034,1
+2025-07-01,03,Clothing and Footwear,0,0,Logistic Regression,20,0.2207386858,0
+2025-07-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.1779708939,0,Logistic Regression,20,0.9114275148,1
+2025-07-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-2.106913641,0,Logistic Regression,20,0.4450081724,0
+2025-07-01,06,Health,0,0,Logistic Regression,20,0.05003357484,0
+2025-07-01,07,Transport,11.18334735,0,Logistic Regression,20,0.6694464042,1
+2025-07-01,08,Information and Communication,0,0,Logistic Regression,20,0.04985395808,0
+2025-07-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,20,0.04912675359,0
+2025-07-01,10,Education Services,0,0,Logistic Regression,20,0.04955886182,0
+2025-07-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,20,0.0493120549,0
+2025-07-01,12,Insurance and Financial Services,-0.6143993117,0,Logistic Regression,20,0.04992384778,0
+2025-07-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",14.44162706,0,Logistic Regression,20,0.1058891538,0
+2025-08-01,01,Food and Non-Alcoholic Beverages,-33.57579974,0,Logistic Regression,20,0.8229641262,1
+2025-08-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-14.80433993,0,Logistic Regression,20,0.8720531019,1
+2025-08-01,03,Clothing and Footwear,0,0,Logistic Regression,20,0.3117903412,0
+2025-08-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.2489650617,0,Logistic Regression,20,0.8412275015,1
+2025-08-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-4.335432736,0,Logistic Regression,20,0.4308715383,0
+2025-08-01,06,Health,0,0,Logistic Regression,20,0.08072432561,0
+2025-08-01,07,Transport,20.03027605,1,Logistic Regression,20,0.4062893695,0
+2025-08-01,08,Information and Communication,0,0,Logistic Regression,20,0.08015747586,0
+2025-08-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,20,0.07930769551,0
+2025-08-01,10,Education Services,0,0,Logistic Regression,20,0.07998293908,0
+2025-08-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,20,0.07959730691,0
+2025-08-01,12,Insurance and Financial Services,-0.320089447,0,Logistic Regression,20,0.08026647267,0
+2025-08-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.778493139,0,Logistic Regression,20,0.1209717429,0
+2025-09-01,01,Food and Non-Alcoholic Beverages,-15.53621426,0,Logistic Regression,20,0.5563221202,1
+2025-09-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-64.93696868,0,Logistic Regression,20,0.390334412,0
+2025-09-01,03,Clothing and Footwear,0,0,Logistic Regression,20,0.3761718247,0
+2025-09-01,04,"Housing, Water, Electricity, Gas and Other Fuels",27.26431351,1,Logistic Regression,20,0.7291621903,1
+2025-09-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",20.29934675,1,Logistic Regression,20,0.4875332536,0
+2025-09-01,06,Health,0,0,Logistic Regression,20,0.1214674687,0
+2025-09-01,07,Transport,-6.473533872,0,Logistic Regression,20,0.7754464296,1
+2025-09-01,08,Information and Communication,0.2080374224,0,Logistic Regression,20,0.1208877344,0
+2025-09-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,20,0.1194287278,0
+2025-09-01,10,Education Services,0,0,Logistic Regression,20,0.1204008992,0
+2025-09-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,20,0.1198457797,0
+2025-09-01,12,Insurance and Financial Services,0.1405459785,0,Logistic Regression,20,0.1216012372,0
+2025-09-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-18.88576501,0,Logistic Regression,20,0.136306881,0
+2025-10-01,01,Food and Non-Alcoholic Beverages,-30.34260931,0,Logistic Regression,20,0.6052568709,1
+2025-10-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-49.91871844,0,Logistic Regression,20,0.8805339816,1
+2025-10-01,03,Clothing and Footwear,-7.64180752,0,Logistic Regression,20,0.4418819387,0
+2025-10-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-78.61101116,0,Logistic Regression,20,0.8404167734,1
+2025-10-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-20.31012074,0,Logistic Regression,20,0.5947888599,1
+2025-10-01,06,Health,0,0,Logistic Regression,20,0.1540026737,0
+2025-10-01,07,Transport,-20.04685482,0,Logistic Regression,20,0.5712860003,1
+2025-10-01,08,Information and Communication,0,0,Logistic Regression,20,0.1528018705,0
+2025-10-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,20,0.1515120307,0
+2025-10-01,10,Education Services,0,0,Logistic Regression,20,0.1527000775,0
+2025-10-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,20,0.1520217772,0
+2025-10-01,12,Insurance and Financial Services,-0.2475672801,0,Logistic Regression,20,0.1548700057,0
+2025-10-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-24.89548125,0,Logistic Regression,20,0.1379138193,0
+2025-11-01,01,Food and Non-Alcoholic Beverages,-55.23510808,0,Logistic Regression,20,0.7275017112,1
+2025-11-01,02,"Alcholoic Beverages, Tobacco and Narcotics",11.05807049,0,Logistic Regression,20,0.9287770493,1
+2025-11-01,03,Clothing and Footwear,-15.96097173,0,Logistic Regression,20,0.4512795412,0
+2025-11-01,04,"Housing, Water, Electricity, Gas and Other Fuels",2.526403938,0,Logistic Regression,20,0.7433456244,1
+2025-11-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-19.86288119,0,Logistic Regression,20,0.5515147484,1
+2025-11-01,06,Health,0,0,Logistic Regression,20,0.156954155,0
+2025-11-01,07,Transport,-28.34042856,0,Logistic Regression,20,0.6069449133,1
+2025-11-01,08,Information and Communication,0,0,Logistic Regression,20,0.1554908536,0
+2025-11-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,20,0.1544244916,0
+2025-11-01,10,Education Services,0,0,Logistic Regression,20,0.1556311868,0
+2025-11-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,20,0.1549422474,0
+2025-11-01,12,Insurance and Financial Services,-0.1019218001,0,Logistic Regression,20,0.1587238722,0
+2025-11-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-4.604365303,0,Logistic Regression,20,0.1527138951,0
+2025-12-01,01,Food and Non-Alcoholic Beverages,-21.0677955,0,Logistic Regression,20,0.8282032719,1
+2025-12-01,02,"Alcholoic Beverages, Tobacco and Narcotics",28.03696231,1,Logistic Regression,20,0.9216843569,1
+2025-12-01,03,Clothing and Footwear,15.25497474,0,Logistic Regression,20,0.4026990962,0
+2025-12-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-4.973916215,0,Logistic Regression,20,0.8539028015,1
+2025-12-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-5.692729687,0,Logistic Regression,20,0.5474900547,1
+2025-12-01,06,Health,0,0,Logistic Regression,20,0.128174839,0
+2025-12-01,07,Transport,-38.47549494,0,Logistic Regression,20,0.4167684193,0
+2025-12-01,08,Information and Communication,0,0,Logistic Regression,20,0.1270571478,0
+2025-12-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,20,0.1260396711,0
+2025-12-01,10,Education Services,0,0,Logistic Regression,20,0.1270578919,0
+2025-12-01,11,Resturants and Accomodation Services,3.646167423,0,Logistic Regression,20,0.1264764929,0
+2025-12-01,12,Insurance and Financial Services,-0.1905749826,0,Logistic Regression,20,0.1297833518,0
+2025-12-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-1.480742342,0,Logistic Regression,20,0.1374468026,0
+2026-01-01,01,Food and Non-Alcoholic Beverages,-5.986423122,0,Logistic Regression,20,0.7503696322,1
+2026-01-01,02,"Alcholoic Beverages, Tobacco and Narcotics",26.04471324,1,Logistic Regression,20,0.9151995748,1
+2026-01-01,03,Clothing and Footwear,12.88696575,0,Logistic Regression,20,0.3760452949,0
+2026-01-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-1.100689656,0,Logistic Regression,20,0.6237187646,1
+2026-01-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.6384709768,0,Logistic Regression,20,0.4069657008,0
+2026-01-01,06,Health,0,0,Logistic Regression,20,0.08717277015,0
+2026-01-01,07,Transport,-3.103486878,0,Logistic Regression,20,0.3752900348,0
+2026-01-01,08,Information and Communication,0,0,Logistic Regression,20,0.08625490991,0
+2026-01-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,20,0.08565352041,0
+2026-01-01,10,Education Services,0,0,Logistic Regression,20,0.08637772478,0
+2026-01-01,11,Resturants and Accomodation Services,-0.8575502774,0,Logistic Regression,20,0.09250441846,0
+2026-01-01,12,Insurance and Financial Services,-0.3424349794,0,Logistic Regression,20,0.08775512258,0
+2026-01-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",3.832972616,0,Logistic Regression,20,0.1183670202,0
+2026-02-01,01,Food and Non-Alcoholic Beverages,-5.435105199,0,Logistic Regression,20,0.6868277843,1
+2026-02-01,02,"Alcholoic Beverages, Tobacco and Narcotics",282.77494,1,Logistic Regression,20,0.9738424397,1
+2026-02-01,03,Clothing and Footwear,3.152366104,0,Logistic Regression,20,0.2883354359,0
+2026-02-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-14.09411416,0,Logistic Regression,20,0.8937108379,1
+2026-02-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.606720969,0,Logistic Regression,20,0.3506529652,0
+2026-02-01,06,Health,0,0,Logistic Regression,20,0.05417485247,0
+2026-02-01,07,Transport,-8.194061751,0,Logistic Regression,20,0.3573786278,0
+2026-02-01,08,Information and Communication,0,0,Logistic Regression,20,0.05358403892,0
+2026-02-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Logistic Regression,20,0.0531971768,0
+2026-02-01,10,Education Services,0,0,Logistic Regression,20,0.05366306705,0
+2026-02-01,11,Resturants and Accomodation Services,0,0,Logistic Regression,20,0.05548734602,0
+2026-02-01,12,Insurance and Financial Services,-0.1596645015,0,Logistic Regression,20,0.05405393409,0
+2026-02-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.486228689,0,Logistic Regression,20,0.1372900194,0
+2025-03-01,01,Food and Non-Alcoholic Beverages,42.97477065,1,Random Forest,20,0.6159213438,1
+2025-03-01,02,"Alcholoic Beverages, Tobacco and Narcotics",77.78101061,1,Random Forest,20,0.529417761,1
+2025-03-01,03,Clothing and Footwear,-0.1146437264,0,Random Forest,20,0.5297993954,1
+2025-03-01,04,"Housing, Water, Electricity, Gas and Other Fuels",207.4899283,1,Random Forest,20,0.5015513582,1
+2025-03-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",4.062145293,0,Random Forest,20,0.4028858958,0
+2025-03-01,06,Health,0,0,Random Forest,20,0.04048808882,0
+2025-03-01,07,Transport,-16.84801965,0,Random Forest,20,0.6337958425,1
+2025-03-01,08,Information and Communication,0,0,Random Forest,20,0.1806708041,0
+2025-03-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,20,0.0720430142,0
+2025-03-01,10,Education Services,0,0,Random Forest,20,0.02809553244,0
+2025-03-01,11,Resturants and Accomodation Services,0,0,Random Forest,20,0.03006488634,0
+2025-03-01,12,Insurance and Financial Services,0.3366684021,0,Random Forest,20,0.05280782461,0
+2025-03-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.423687254,0,Random Forest,20,0.2507253355,0
+2025-04-01,01,Food and Non-Alcoholic Beverages,60.38889677,1,Random Forest,20,0.6614580313,1
+2025-04-01,02,"Alcholoic Beverages, Tobacco and Narcotics",143.2605696,1,Random Forest,20,0.7927171466,1
+2025-04-01,03,Clothing and Footwear,0.09368695993,0,Random Forest,20,0.4634202978,0
+2025-04-01,04,"Housing, Water, Electricity, Gas and Other Fuels",110.823997,1,Random Forest,20,0.8321636984,1
+2025-04-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",36.45339319,1,Random Forest,20,0.5467785628,1
+2025-04-01,06,Health,0,0,Random Forest,20,0.03383219498,0
+2025-04-01,07,Transport,54.1137936,1,Random Forest,20,0.4775410521,0
+2025-04-01,08,Information and Communication,0,0,Random Forest,20,0.03303234987,0
+2025-04-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,20,0.03396752716,0
+2025-04-01,10,Education Services,0,0,Random Forest,20,0.026218823,0
+2025-04-01,11,Resturants and Accomodation Services,0,0,Random Forest,20,0.0294806939,0
+2025-04-01,12,Insurance and Financial Services,0.2019427172,0,Random Forest,20,0.120301919,0
+2025-04-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",25.56268603,1,Random Forest,20,0.2403113485,0
+2025-05-01,01,Food and Non-Alcoholic Beverages,48.53550618,1,Random Forest,20,0.7410485736,1
+2025-05-01,02,"Alcholoic Beverages, Tobacco and Narcotics",96.131111,1,Random Forest,20,0.8741681098,1
+2025-05-01,03,Clothing and Footwear,0.1495926846,0,Random Forest,20,0.4901066349,0
+2025-05-01,04,"Housing, Water, Electricity, Gas and Other Fuels",8.536733283,0,Random Forest,20,0.8361305877,1
+2025-05-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.7962139351,0,Random Forest,20,0.640926688,1
+2025-05-01,06,Health,0,0,Random Forest,20,0.03325673984,0
+2025-05-01,07,Transport,-20.81133217,0,Random Forest,20,0.6334082848,1
+2025-05-01,08,Information and Communication,0,0,Random Forest,20,0.03439598623,0
+2025-05-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,20,0.03613244558,0
+2025-05-01,10,Education Services,0,0,Random Forest,20,0.02838374141,0
+2025-05-01,11,Resturants and Accomodation Services,0,0,Random Forest,20,0.03164561232,0
+2025-05-01,12,Insurance and Financial Services,-0.550186821,0,Random Forest,20,0.1405122109,0
+2025-05-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",7.050209979,0,Random Forest,20,0.6100673239,1
+2025-06-01,01,Food and Non-Alcoholic Beverages,91.13649179,1,Random Forest,20,0.7802912063,1
+2025-06-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-65.95014339,0,Random Forest,20,0.7494268374,1
+2025-06-01,03,Clothing and Footwear,0,0,Random Forest,20,0.1538397834,0
+2025-06-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-0.4720682098,0,Random Forest,20,0.7790378746,1
+2025-06-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",0,0,Random Forest,20,0.4631161512,0
+2025-06-01,06,Health,0,0,Random Forest,20,0.03459270287,0
+2025-06-01,07,Transport,41.07879566,1,Random Forest,20,0.4929258709,0
+2025-06-01,08,Information and Communication,0.4349320315,0,Random Forest,20,0.03573194926,0
+2025-06-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,20,0.0390684086,0
+2025-06-01,10,Education Services,0,0,Random Forest,20,0.02971970444,0
+2025-06-01,11,Resturants and Accomodation Services,0,0,Random Forest,20,0.03298157534,0
+2025-06-01,12,Insurance and Financial Services,-0.3182850236,0,Random Forest,20,0.05289051078,0
+2025-06-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.713476785,0,Random Forest,20,0.6293659191,1
+2025-07-01,01,Food and Non-Alcoholic Beverages,5.768769994,0,Random Forest,20,0.710238009,1
+2025-07-01,02,"Alcholoic Beverages, Tobacco and Narcotics",12.97445539,0,Random Forest,20,0.7539799495,1
+2025-07-01,03,Clothing and Footwear,0,0,Random Forest,20,0.1027955585,0
+2025-07-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.1779708939,0,Random Forest,20,0.6687926745,1
+2025-07-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-2.106913641,0,Random Forest,20,0.3879408364,0
+2025-07-01,06,Health,0,0,Random Forest,20,0.05134024896,0
+2025-07-01,07,Transport,11.18334735,0,Random Forest,20,0.670874792,1
+2025-07-01,08,Information and Communication,0,0,Random Forest,20,0.1705531524,0
+2025-07-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,20,0.05351600197,0
+2025-07-01,10,Education Services,0,0,Random Forest,20,0.04622915529,0
+2025-07-01,11,Resturants and Accomodation Services,0,0,Random Forest,20,0.0488283472,0
+2025-07-01,12,Insurance and Financial Services,-0.6143993117,0,Random Forest,20,0.08919197476,0
+2025-07-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",14.44162706,0,Random Forest,20,0.4986531972,0
+2025-08-01,01,Food and Non-Alcoholic Beverages,-33.57579974,0,Random Forest,20,0.6812795787,1
+2025-08-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-14.80433993,0,Random Forest,20,0.7620051108,1
+2025-08-01,03,Clothing and Footwear,0,0,Random Forest,20,0.1047287694,0
+2025-08-01,04,"Housing, Water, Electricity, Gas and Other Fuels",0.2489650617,0,Random Forest,20,0.5510707901,1
+2025-08-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-4.335432736,0,Random Forest,20,0.2963857128,0
+2025-08-01,06,Health,0,0,Random Forest,20,0.04963361305,0
+2025-08-01,07,Transport,20.03027605,1,Random Forest,20,0.753442032,1
+2025-08-01,08,Information and Communication,0,0,Random Forest,20,0.1063279857,0
+2025-08-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,20,0.05180936605,0
+2025-08-01,10,Education Services,0,0,Random Forest,20,0.04452251938,0
+2025-08-01,11,Resturants and Accomodation Services,0,0,Random Forest,20,0.04712171129,0
+2025-08-01,12,Insurance and Financial Services,-0.320089447,0,Random Forest,20,0.1245851238,0
+2025-08-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",6.778493139,0,Random Forest,20,0.590672472,1
+2025-09-01,01,Food and Non-Alcoholic Beverages,-15.53621426,0,Random Forest,20,0.5766627595,1
+2025-09-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-64.93696868,0,Random Forest,20,0.7449120311,1
+2025-09-01,03,Clothing and Footwear,0,0,Random Forest,20,0.09533259959,0
+2025-09-01,04,"Housing, Water, Electricity, Gas and Other Fuels",27.26431351,1,Random Forest,20,0.4583122953,0
+2025-09-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",20.29934675,1,Random Forest,20,0.2470511329,0
+2025-09-01,06,Health,0,0,Random Forest,20,0.05396721905,0
+2025-09-01,07,Transport,-6.473533872,0,Random Forest,20,0.6746637239,1
+2025-09-01,08,Information and Communication,0.2080374224,0,Random Forest,20,0.09153174711,0
+2025-09-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,20,0.05614297205,0
+2025-09-01,10,Education Services,0,0,Random Forest,20,0.04885612538,0
+2025-09-01,11,Resturants and Accomodation Services,0,0,Random Forest,20,0.05016280028,0
+2025-09-01,12,Insurance and Financial Services,0.1405459785,0,Random Forest,20,0.1060601751,0
+2025-09-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-18.88576501,0,Random Forest,20,0.6294968458,1
+2025-10-01,01,Food and Non-Alcoholic Beverages,-30.34260931,0,Random Forest,20,0.5763500272,1
+2025-10-01,02,"Alcholoic Beverages, Tobacco and Narcotics",-49.91871844,0,Random Forest,20,0.6241220329,1
+2025-10-01,03,Clothing and Footwear,-7.64180752,0,Random Forest,20,0.1382164161,0
+2025-10-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-78.61101116,0,Random Forest,20,0.6901949531,1
+2025-10-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-20.31012074,0,Random Forest,20,0.7435811132,1
+2025-10-01,06,Health,0,0,Random Forest,20,0.0865354006,0
+2025-10-01,07,Transport,-20.04685482,0,Random Forest,20,0.5445904487,1
+2025-10-01,08,Information and Communication,0,0,Random Forest,20,0.2599818139,0
+2025-10-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,20,0.08729872422,0
+2025-10-01,10,Education Services,0,0,Random Forest,20,0.08024481975,0
+2025-10-01,11,Resturants and Accomodation Services,0,0,Random Forest,20,0.0805087596,0
+2025-10-01,12,Insurance and Financial Services,-0.2475672801,0,Random Forest,20,0.2884346483,0
+2025-10-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-24.89548125,0,Random Forest,20,0.3529363385,0
+2025-11-01,01,Food and Non-Alcoholic Beverages,-55.23510808,0,Random Forest,20,0.717500278,1
+2025-11-01,02,"Alcholoic Beverages, Tobacco and Narcotics",11.05807049,0,Random Forest,20,0.6645565389,1
+2025-11-01,03,Clothing and Footwear,-15.96097173,0,Random Forest,20,0.2572763315,0
+2025-11-01,04,"Housing, Water, Electricity, Gas and Other Fuels",2.526403938,0,Random Forest,20,0.5018974754,1
+2025-11-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-19.86288119,0,Random Forest,20,0.5252231607,1
+2025-11-01,06,Health,0,0,Random Forest,20,0.1280686605,0
+2025-11-01,07,Transport,-28.34042856,0,Random Forest,20,0.3899925974,0
+2025-11-01,08,Information and Communication,0,0,Random Forest,20,0.1830590762,0
+2025-11-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,20,0.1292811133,0
+2025-11-01,10,Education Services,0,0,Random Forest,20,0.1237135636,0
+2025-11-01,11,Resturants and Accomodation Services,0,0,Random Forest,20,0.1239775034,0
+2025-11-01,12,Insurance and Financial Services,-0.1019218001,0,Random Forest,20,0.1576826274,0
+2025-11-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-4.604365303,0,Random Forest,20,0.3727156794,0
+2025-12-01,01,Food and Non-Alcoholic Beverages,-21.0677955,0,Random Forest,20,0.5884143022,1
+2025-12-01,02,"Alcholoic Beverages, Tobacco and Narcotics",28.03696231,1,Random Forest,20,0.735041023,1
+2025-12-01,03,Clothing and Footwear,15.25497474,0,Random Forest,20,0.3773911242,0
+2025-12-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-4.973916215,0,Random Forest,20,0.5451336009,1
+2025-12-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-5.692729687,0,Random Forest,20,0.3609460392,0
+2025-12-01,06,Health,0,0,Random Forest,20,0.07378493752,0
+2025-12-01,07,Transport,-38.47549494,0,Random Forest,20,0.4897742091,0
+2025-12-01,08,Information and Communication,0,0,Random Forest,20,0.1236240839,0
+2025-12-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,20,0.07392596167,0
+2025-12-01,10,Education Services,0,0,Random Forest,20,0.06966793578,0
+2025-12-01,11,Resturants and Accomodation Services,3.646167423,0,Random Forest,20,0.07281677686,0
+2025-12-01,12,Insurance and Financial Services,-0.1905749826,0,Random Forest,20,0.09229379755,0
+2025-12-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-1.480742342,0,Random Forest,20,0.4839054881,0
+2026-01-01,01,Food and Non-Alcoholic Beverages,-5.986423122,0,Random Forest,20,0.5018876539,1
+2026-01-01,02,"Alcholoic Beverages, Tobacco and Narcotics",26.04471324,1,Random Forest,20,0.7093545229,1
+2026-01-01,03,Clothing and Footwear,12.88696575,0,Random Forest,20,0.6497128411,1
+2026-01-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-1.100689656,0,Random Forest,20,0.520358882,1
+2026-01-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.6384709768,0,Random Forest,20,0.4916174974,0
+2026-01-01,06,Health,0,0,Random Forest,20,0.0805334718,0
+2026-01-01,07,Transport,-3.103486878,0,Random Forest,20,0.4830074419,0
+2026-01-01,08,Information and Communication,0,0,Random Forest,20,0.1009845397,0
+2026-01-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,20,0.08067449595,0
+2026-01-01,10,Education Services,0,0,Random Forest,20,0.07641647006,0
+2026-01-01,11,Resturants and Accomodation Services,-0.8575502774,0,Random Forest,20,0.2668484649,0
+2026-01-01,12,Insurance and Financial Services,-0.3424349794,0,Random Forest,20,0.1002400901,0
+2026-01-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",3.832972616,0,Random Forest,20,0.4880795283,0
+2026-02-01,01,Food and Non-Alcoholic Beverages,-5.435105199,0,Random Forest,20,0.5014612243,1
+2026-02-01,02,"Alcholoic Beverages, Tobacco and Narcotics",282.77494,1,Random Forest,20,0.6722755726,1
+2026-02-01,03,Clothing and Footwear,3.152366104,0,Random Forest,20,0.6472584001,1
+2026-02-01,04,"Housing, Water, Electricity, Gas and Other Fuels",-14.09411416,0,Random Forest,20,0.3375963537,0
+2026-02-01,05,"Furnishings, Household Equipment and Routine Houshold Maintenance",-0.606720969,0,Random Forest,20,0.4943435553,0
+2026-02-01,06,Health,0,0,Random Forest,20,0.0510035182,0
+2026-02-01,07,Transport,-8.194061751,0,Random Forest,20,0.4798798677,0
+2026-02-01,08,Information and Communication,0,0,Random Forest,20,0.06529008122,0
+2026-02-01,09,"Recreation, Sport, Culture, Gardens and Pets",0,0,Random Forest,20,0.05069541325,0
+2026-02-01,10,Education Services,0,0,Random Forest,20,0.04495103259,0
+2026-02-01,11,Resturants and Accomodation Services,0,0,Random Forest,20,0.1052655417,0
+2026-02-01,12,Insurance and Financial Services,-0.1596645015,0,Random Forest,20,0.07227941314,0
+2026-02-01,13,"Personal Care, Social Protection and Miscellaneous Goods and Services",-2.486228689,0,Random Forest,20,0.5264535991,1

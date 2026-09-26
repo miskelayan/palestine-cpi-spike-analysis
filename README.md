@@ -1,100 +1,95 @@
 # Palestine CPI Spike Analysis
 
-Analyzing unusual Consumer Price Index (CPI) spikes in the Gaza Strip using official Palestinian CPI data.
+**Can recent price movements help anticipate large monthly CPI increases in Gaza?**
 
-## Project overview
+An executed analysis of official PCBS data, developed from a university Data Analytics for Business group project by **Misk Elayan, Asil Khalil, and Sandra Shwamreh**. This repository is Misk Elayan's organized implementation and continued development of that shared project.
 
-This project studies monthly CPI behavior in Gaza with an emphasis on identifying unusually large price increases rather than only modeling the overall CPI level.
+The models detect many upward spikes, but generate substantial false alarms. **Logistic Regression reaches F1 0.500; Random Forest reaches 0.473** on the final 12 months. The simpler persistence baseline reaches 0.480. This small, volatile panel does not establish a reliable operational forecasting system.
 
-The work combines economic data analysis, time-series feature engineering, and machine-learning classification. The planned baseline is Logistic Regression, followed by Random Forest as a nonlinear comparison model. ARIMA/SARIMA may be added as a traditional time-series benchmark.
+![Gaza CPI levels and monthly changes](reports/figures/cpi_overview.png)
 
-## Data
+## Actual held-out results
 
-**Primary source:** Palestinian Central Bureau of Statistics (PCBS)  
-**Reference period:** January 2023 to February 2026  
-**Base year:** 2018 = 100  
-**Update frequency:** Monthly
+A spike is an expenditure group's monthly CPI increase **≥10%**, an explicit study definition, not an official PCBS threshold. Train on July 2023–February 2025; test on March 2025–February 2026. The test set has **156 group-month observations and 25 spikes** across 13 separate expenditure groups.
 
-The consolidated project workbook also contains cleaned major-group and detailed-division CPI tables, source metadata, a regional price snapshot, and an August 2023 vs August 2024 comparison table.
+| Model | Accuracy | Precision | Recall | F1 |
+|---|---:|---:|---:|---:|
+| No spike | 0.840 | 0.000 | 0.000 | 0.000 |
+| Persistence | 0.833 | 0.480 | 0.480 | 0.480 |
+| Logistic Regression | 0.731 | 0.356 | 0.840 | 0.500 |
+| Random Forest | 0.686 | 0.324 | 0.880 | 0.473 |
 
-See [data/README.md](data/README.md) for source and licensing details.
+Logistic Regression finds **21 of 25** spikes with **38 false positives**. Random Forest finds **22 of 25** with **46 false positives**. Always predicting no spike attains 84% accuracy while missing every spike, illustrating why accuracy alone is misleading.
 
-## Repository structure
+The F1 advantage of Logistic Regression over persistence is only 0.02. Descriptive month-bootstrap intervals overlap substantially (Logistic Regression: 0.347–0.645; persistence: 0.294–0.621); these are not evidence of statistically established superiority.
 
-```text
-palestine-cpi-spike-analysis/
-├── data/
-│   └── README.md
-├── docs/
-│   └── methodology.md
-├── notebooks/
-│   └── README.md
-├── src/
-│   ├── __init__.py
-│   ├── data_loader.py
-│   ├── features.py
-│   └── models.py
-├── .gitignore
-├── README.md
-└── requirements.txt
-```
+![Held-out confusion matrices](reports/figures/confusion_matrices.png)
 
-## Current implementation
+## Sensitivity and findings
 
-The repository now includes reusable code for:
+| Spike threshold | Actual test spikes | Persistence F1 | Logistic Regression F1 | Random Forest F1 |
+|---|---:|---:|---:|---:|
+| ≥5% | 30 | 0.600 | 0.500 | 0.545 |
+| ≥10% (primary) | 25 | 0.480 | 0.500 | 0.473 |
+| ≥20% | 19 | 0.432 | 0.345 | 0.394 |
 
-- downloading the official CPI workbook;
-- inspecting Excel sheet names;
-- reading the cleaned long-format CPI sheets from the consolidated project workbook;
-- creating lagged and rolling time-series features without using future observations;
-- defining a configurable binary CPI-spike target;
-- performing chronological train/test splits;
-- building Logistic Regression and Random Forest classification pipelines;
-- producing classification metrics and a confusion matrix.
+There is no consistent machine-learning winner across definitions. Persistence performs best by F1 at 5% and 20%. The two earlier temporal holdouts also show unstable performance. All definitions and models are reported; test results were not used to retune them.
 
-Empirical results are intentionally not reported yet. They should only be added after the analysis notebooks are run and the spike threshold is justified.
+![Threshold sensitivity](reports/figures/sensitivity.png)
 
-## Planned analysis
+## Data and safeguards
 
-1. Inspect and validate the CPI data.
-2. Explore CPI levels, monthly percentage changes, and volatility by expenditure group.
-3. Define and justify a CPI-spike threshold.
-4. Create lagged and rolling predictors.
-5. Fit a Logistic Regression baseline.
-6. Fit a Random Forest comparison model.
-7. Evaluate using accuracy, precision, recall, F1-score, and a confusion matrix.
-8. Optionally compare against an ARIMA/SARIMA benchmark.
-9. Use regional price data and external CPI series only for contextual comparison.
+- **Source:** Palestinian Central Bureau of Statistics (PCBS), Gaza CPI, base year 2018 = 100.
+- **Frozen scope:** December 2022–February 2026, with January 2023 onward monthly changes. Later live-source data is excluded to preserve the original project period.
+- **Validated:** 585 major-group levels and 5,070 detailed levels match the official workbook over this period.
+- **Corrected extraction:** 15 missing February 2024 percentage changes recovered from observed index levels; original extracted values remain visible.
+- **Avoid double counting:** model codes 01–13; exclude all-items CPI and overlapping aggregate 12+13. Detailed data has 130 codes but only 124 unique English labels.
+- **Prevent look-ahead:** lagged changes, shifted 3/6-month summaries, calendar features and group identity only; train-only preprocessing; split whole months chronologically.
+- **Forecast meaning:** each test month uses previously observed months with frozen fitted models. These are sequential one-step forecasts, not a 12-step forecast from one origin.
+- **Regional snapshot:** contextual only, never treated as a monthly training panel.
 
-## Setup
+![Changes by expenditure code](reports/figures/monthly_changes.png)
+
+## Reproduce
+
+The committed, attributed numerical extract supports offline analysis; no private Drive access is needed. The published environment used **Python 3.14.7**. Direct package versions are pinned; the full environment is recorded in `requirements-lock.txt`.
 
 ```bash
+git clone https://github.com/miskelayan/palestine-cpi-spike-analysis.git
+cd palestine-cpi-spike-analysis
 python -m venv .venv
 source .venv/bin/activate
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
+python -m src.analysis
+python -m unittest discover -s tests -v
+python -m scripts.execute_notebook
 ```
 
-On Windows:
+On Windows, replace the activation command with `.venv\Scripts\activate`. Commands run from the repository root. The first analysis run may build a Matplotlib font cache. A Jupyter server is optional: the notebook execution command runs it headlessly and saves outputs.
 
-```bash
-.venv\Scripts\activate
-pip install -r requirements.txt
-```
+[Read the executed notebook](notebooks/01_cpi_spike_analysis.ipynb). All results are produced by `src/analysis.py`; the notebook reruns that same pipeline and independently checks metrics against saved predictions. The optional [raw-file extraction audit](data/README.md) uses the existing project pack and official workbook.
 
-## Academic context
+## Explore the evidence
 
-This project originated as a university **Data Analytics for Business** group project.
+| Artifact | Contents |
+|---|---|
+| [Executed notebook](notebooks/01_cpi_spike_analysis.ipynb) | Data audit, EDA, features, split, models, sensitivity, interpretation |
+| [Original notebook review](docs/original_notebook_review.md) | How the supplied original analysis informs this implementation and which evaluation issues were corrected |
+| [Detailed group overview](reports/tables/detailed_group_overview.csv) | Volatility recalculated by unique code, with nested series kept descriptive |
+| [Methodology](docs/methodology.md) | Forecast timing, design choices, omitted ARIMA/SARIMA rationale, limitations |
+| [Data provenance](data/README.md) | Source, transformations, licensing and extraction |
+| [Primary metrics](reports/tables/metrics.csv) | Scores and confusion counts |
+| [Predictions](reports/tables/predictions.csv) | Every test prediction, observed outcome and model score |
+| [Sensitivity](reports/tables/threshold_sensitivity.csv) | Three thresholds, four models |
+| [Earlier temporal holdouts](reports/tables/temporal_validation.csv) | Two train-period robustness checks |
+| [Group/month metrics](reports/tables/metrics_by_group_and_month.csv) | Where performance varies |
+| [Group overview](reports/tables/group_overview.csv) | Range, volatility and flat-series counts |
+| [Run manifest](reports/run_manifest.json) | Exact sample periods, settings and software versions |
 
-Original group members:
+## Limits and attribution
 
-- Misk Elayan
-- Asil Khalil
-- Sandra Shwamreh
+Only 20 modeled training months and 12 test months are available; shared shocks mean rows are not independent. Long flat reported series and disrupted data collection limit interpretation. The study uses historical data rather than release-time vintages. Class-balanced models improve recall at a high false-alarm cost. No causal, policy or current forecasting claim is made.
 
-This repository is Misk Elayan's organized implementation and continued development of the project for learning and portfolio purposes.
+ARIMA/SARIMA is deferred because the short, disrupted series does not support a convincing seasonal benchmark here; persistence provides a transparent time-series comparison.
 
-## Data attribution
-
-The CPI source data is published by the Palestinian Central Bureau of Statistics (PCBS). Source licensing and download information are documented in [data/README.md](data/README.md).
-
-No separate license has been assigned to the project code at this stage.
+Original group members: **Misk Elayan · Asil Khalil · Sandra Shwamreh**. The original project report and project pack informed the scope and data preparation. Numerical data remain attributable to **PCBS** under the source's **CC BY** designation; see [data licensing notes](data/README.md). No separate license has been assigned to project code or the academic report.

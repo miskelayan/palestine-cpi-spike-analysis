@@ -81,7 +81,9 @@ def build_random_forest(
             (
                 "model",
                 RandomForestClassifier(
-                    n_estimators=500,
+                    n_estimators=300,
+                    max_depth=4,
+                    min_samples_leaf=5,
                     class_weight="balanced",
                     random_state=random_state,
                 ),
@@ -100,5 +102,5 @@ def evaluate_classifier(model: Pipeline, x_test, y_test) -> dict:
             output_dict=True,
             zero_division=0,
         ),
-        "confusion_matrix": confusion_matrix(y_test, predictions).tolist(),
+        "confusion_matrix": confusion_matrix(y_test, predictions, labels=[0, 1]).tolist(),
     }

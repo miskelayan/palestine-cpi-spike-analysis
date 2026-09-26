@@ -18,7 +18,7 @@ def add_time_series_features(
     frame: pd.DataFrame,
     lags: Iterable[int] = (1, 2, 3),
     rolling_windows: Iterable[int] = (3, 6),
-    group_col: str = "group_en",
+    group_col: str = "code",
     date_col: str = "date",
     change_col: str = "pct_change",
 ) -> pd.DataFrame:
@@ -34,6 +34,14 @@ def add_time_series_features(
     result[date_col] = pd.to_datetime(result[date_col], errors="coerce")
     result[change_col] = pd.to_numeric(result[change_col], errors="coerce")
     result = result.sort_values([group_col, date_col]).reset_index(drop=True)
+    if result[date_col].isna().any() or result[group_col].isna().any():
+        raise ValueError("Dates and group keys must not be missing.")
+    if result.duplicated([group_col, date_col]).any():
+        raise ValueError("Duplicate group-month observations.")
+    for _, series in result.groupby(group_col)[date_col]:
+        expected = pd.date_range(series.min(), series.max(), freq="MS")
+        if list(series) != list(expected):
+            raise ValueError("Each group must have a complete monthly calendar.")
 
     grouped = result.groupby(group_col, sort=False)[change_col]
 
@@ -47,11 +55,11 @@ def add_time_series_features(
             raise ValueError("Rolling windows must be at least 2.")
         result[f"{change_col}_rolling_mean_{window}"] = (
             result.groupby(group_col, sort=False)[change_col]
-            .transform(lambda series: series.shift(1).rolling(window, min_periods=2).mean())
+            .transform(lambda series: series.shift(1).rolling(window, min_periods=window).mean())
         )
         result[f"{change_col}_rolling_std_{window}"] = (
             result.groupby(group_col, sort=False)[change_col]
-            .transform(lambda series: series.shift(1).rolling(window, min_periods=2).std())
+            .transform(lambda series: series.shift(1).rolling(window, min_periods=window).std())
         )
 
     result["month"] = result[date_col].dt.month

@@ -1,0 +1,41 @@
+{
+  "project_pack_sha256": "8885b165b23e2b21cb740122c32f0dee0a6d49a9d9e4e86520e7fdf3f2a91f3a",
+  "source": "Palestinian Central Bureau of Statistics (PCBS)",
+  "dataset_url": "https://data.humdata.org/dataset/0e06dbe6-8eeb-4b26-ba12-652520b44177",
+  "license": "Creative Commons Attribution International (CC BY), as stated in project-pack Metadata and HDX",
+  "license_id": "cc-by",
+  "license_url_as_supplied_by_hdx": "http://www.opendefinition.org/licenses/cc-by",
+  "frozen_period": "2022-12-01 through 2026-02-01",
+  "retrieved_on": "2026-09-26",
+  "transformation": "Trim labels; preserve code strings; recompute monthly percent change from consecutive index levels without filling missing values.",
+  "official_comparison": {
+    "matched_rows": 5070,
+    "max_absolute_index_difference": 3.637978807091713e-12,
+    "differences_over_1e_8": 0,
+    "official_latest_month": "2026-08-01",
+    "official_sha256": "71d5d255ffbd5629d276ab16094ca9977f939576b2f1de0c51a19523d692b207"
+  },
+  "major_official_overlap": {
+    "rows": 585,
+    "codes": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "0999",
+      "10",
+      "11",
+      "12",
+      "12+13",
+      "13"
+    ],
+    "max_absolute_index_difference": 4.547473508864641e-13
+  },
+  "processed_sha256": "6f90ecba21033d2a70e8ed58daabd4ae4a625cfe3dac8f5204fea5cc6dc6384e",
+  "detailed_processed_sha256": "63413b048e647a537d6bb5d192dfb5e98dacca125e5b3579570782eeae0e776f"
+}
