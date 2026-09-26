@@ -1,53 +1,89 @@
 # Palestine CPI Spike Analysis
 
-Analyzing and forecasting unusual Consumer Price Index (CPI) spikes in Gaza using official Palestinian CPI data.
+Analyzing unusual Consumer Price Index (CPI) spikes in the Gaza Strip using official Palestinian CPI data.
 
-## Project Overview
+## Project overview
 
-This project analyzes monthly Consumer Price Index data for the Gaza Strip, with the goal of identifying and forecasting unusually large price increases.
+This project studies monthly CPI behavior in Gaza with an emphasis on identifying unusually large price increases rather than only modeling the overall CPI level.
 
-The analysis focuses on CPI movements across major expenditure groups and explores statistical and machine learning methods for detecting abnormal price behavior.
+The work combines economic data analysis, time-series feature engineering, and machine-learning classification. The planned baseline is Logistic Regression, followed by Random Forest as a nonlinear comparison model. ARIMA/SARIMA may be added as a traditional time-series benchmark.
 
-## Data Source
+## Data
 
-The project uses official Palestinian Consumer Price Index data published by the Palestinian Central Bureau of Statistics (PCBS).
+**Primary source:** Palestinian Central Bureau of Statistics (PCBS)  
+**Reference period:** January 2023 to February 2026  
+**Base year:** 2018 = 100  
+**Update frequency:** Monthly
 
-The dataset covers monthly CPI values from January 2023 to February 2026, with 2018 = 100 as the base year.
+The consolidated project workbook also contains cleaned major-group and detailed-division CPI tables, source metadata, a regional price snapshot, and an August 2023 vs August 2024 comparison table.
 
-## Planned Methods
+See [data/README.md](data/README.md) for source and licensing details.
 
-The project will include:
+## Repository structure
 
-- Data cleaning and restructuring
-- Exploratory data analysis
-- Monthly percentage change calculations
-- Lagged features
-- Rolling averages and volatility measures
-- CPI spike definition and classification
-- Logistic Regression
-- Random Forest
-- Optional ARIMA / SARIMA benchmark models
-- Model evaluation using accuracy, precision, recall, and F1-score
+```text
+palestine-cpi-spike-analysis/
+├── data/
+│   └── README.md
+├── docs/
+│   └── methodology.md
+├── notebooks/
+│   └── README.md
+├── src/
+│   ├── __init__.py
+│   ├── data_loader.py
+│   ├── features.py
+│   └── models.py
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
 
-## Tools
+## Current implementation
 
-- Python
-- pandas
-- NumPy
-- Matplotlib
-- scikit-learn
-- statsmodels
-- Jupyter Notebook
+The repository now includes reusable code for:
 
-## Project Status
+- downloading the official CPI workbook;
+- inspecting Excel sheet names;
+- reading the cleaned long-format CPI sheets from the consolidated project workbook;
+- creating lagged and rolling time-series features without using future observations;
+- defining a configurable binary CPI-spike target;
+- performing chronological train/test splits;
+- building Logistic Regression and Random Forest classification pipelines;
+- producing classification metrics and a confusion matrix.
 
-Work in progress.
+Empirical results are intentionally not reported yet. They should only be added after the analysis notebooks are run and the spike threshold is justified.
 
-The repository will be developed gradually as the analysis, modeling, and documentation are completed.
+## Planned analysis
 
-## Academic Context
+1. Inspect and validate the CPI data.
+2. Explore CPI levels, monthly percentage changes, and volatility by expenditure group.
+3. Define and justify a CPI-spike threshold.
+4. Create lagged and rolling predictors.
+5. Fit a Logistic Regression baseline.
+6. Fit a Random Forest comparison model.
+7. Evaluate using accuracy, precision, recall, F1-score, and a confusion matrix.
+8. Optionally compare against an ARIMA/SARIMA benchmark.
+9. Use regional price data and external CPI series only for contextual comparison.
 
-This project was originally developed as part of a university Data Analytics for Business course.
+## Setup
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+On Windows:
+
+```bash
+.venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+## Academic context
+
+This project originated as a university **Data Analytics for Business** group project.
 
 Original group members:
 
@@ -55,10 +91,10 @@ Original group members:
 - Asil Khalil
 - Sandra Shwamreh
 
-This repository contains my implementation, organization, and further development of the analytical work.
+This repository is Misk Elayan's organized implementation and continued development of the project for learning and portfolio purposes.
 
-## License and Attribution
+## Data attribution
 
-The CPI data used in this project comes from official Palestinian sources and must be properly attributed to the original data provider.
+The CPI source data is published by the Palestinian Central Bureau of Statistics (PCBS). Source licensing and download information are documented in [data/README.md](data/README.md).
 
-No project license has been added yet.
+No separate license has been assigned to the project code at this stage.
